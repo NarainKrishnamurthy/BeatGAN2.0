@@ -1,0 +1,3202 @@
+Loading data
+Finished loading data
+Epoch is 0
+Number of batches 3
+batch 0 d_loss : 0.687102
+batch 0 g_loss : 0.701429
+batch 1 d_loss : 0.628188
+batch 1 g_loss : 0.689687
+batch 2 d_loss : 0.592623
+batch 2 g_loss : 0.698876
+Epoch is 1
+Number of batches 3
+batch 0 d_loss : 0.545463
+batch 0 g_loss : 0.695697
+batch 1 d_loss : 0.485208
+batch 1 g_loss : 0.707831
+batch 2 d_loss : 0.461925
+batch 2 g_loss : 0.708408
+Epoch is 2
+Number of batches 3
+batch 0 d_loss : 0.435113
+batch 0 g_loss : 0.713483
+batch 1 d_loss : 0.408278
+batch 1 g_loss : 0.711524
+batch 2 d_loss : 0.410285
+batch 2 g_loss : 0.707457
+Epoch is 3
+Number of batches 3
+batch 0 d_loss : 0.401064
+batch 0 g_loss : 0.693812
+batch 1 d_loss : 0.390389
+batch 1 g_loss : 0.670847
+batch 2 d_loss : 0.401227
+batch 2 g_loss : 0.689887
+Epoch is 4
+Number of batches 3
+batch 0 d_loss : 0.406884
+batch 0 g_loss : 0.694319
+batch 1 d_loss : 0.398735
+batch 1 g_loss : 0.690260
+batch 2 d_loss : 0.410653
+batch 2 g_loss : 0.681632
+Epoch is 5
+Number of batches 3
+batch 0 d_loss : 0.437233
+batch 0 g_loss : 0.655328
+batch 1 d_loss : 0.465595
+batch 1 g_loss : 0.674962
+batch 2 d_loss : 0.427249
+batch 2 g_loss : 0.671144
+Epoch is 6
+Number of batches 3
+batch 0 d_loss : 0.474004
+batch 0 g_loss : 0.666564
+batch 1 d_loss : 0.474357
+batch 1 g_loss : 0.650591
+batch 2 d_loss : 0.487580
+batch 2 g_loss : 0.653936
+Epoch is 7
+Number of batches 3
+batch 0 d_loss : 0.538279
+batch 0 g_loss : 0.632911
+batch 1 d_loss : 0.534107
+batch 1 g_loss : 0.612687
+batch 2 d_loss : 0.510829
+batch 2 g_loss : 0.611988
+Epoch is 8
+Number of batches 3
+batch 0 d_loss : 0.535423
+batch 0 g_loss : 0.647949
+batch 1 d_loss : 0.554950
+batch 1 g_loss : 0.646828
+batch 2 d_loss : 0.519074
+batch 2 g_loss : 0.640622
+Epoch is 9
+Number of batches 3
+batch 0 d_loss : 0.531029
+batch 0 g_loss : 0.676561
+batch 1 d_loss : 0.514476
+batch 1 g_loss : 0.709919
+batch 2 d_loss : 0.509080
+batch 2 g_loss : 0.713151
+Epoch is 10
+Number of batches 3
+batch 0 d_loss : 0.494308
+batch 0 g_loss : 0.748302
+batch 1 d_loss : 0.486952
+batch 1 g_loss : 0.753260
+batch 2 d_loss : 0.481559
+batch 2 g_loss : 0.761402
+Epoch is 11
+Number of batches 3
+batch 0 d_loss : 0.476309
+batch 0 g_loss : 0.780671
+batch 1 d_loss : 0.457825
+batch 1 g_loss : 0.829695
+batch 2 d_loss : 0.459008
+batch 2 g_loss : 0.852790
+Epoch is 12
+Number of batches 3
+batch 0 d_loss : 0.459613
+batch 0 g_loss : 0.884724
+batch 1 d_loss : 0.453866
+batch 1 g_loss : 0.915978
+batch 2 d_loss : 0.454503
+batch 2 g_loss : 0.941771
+Epoch is 13
+Number of batches 3
+batch 0 d_loss : 0.460886
+batch 0 g_loss : 0.968239
+batch 1 d_loss : 0.442923
+batch 1 g_loss : 0.973691
+batch 2 d_loss : 0.447214
+batch 2 g_loss : 1.011486
+Epoch is 14
+Number of batches 3
+batch 0 d_loss : 0.450717
+batch 0 g_loss : 1.029360
+batch 1 d_loss : 0.433707
+batch 1 g_loss : 1.036857
+batch 2 d_loss : 0.431215
+batch 2 g_loss : 1.037806
+Epoch is 15
+Number of batches 3
+batch 0 d_loss : 0.433566
+batch 0 g_loss : 1.047224
+batch 1 d_loss : 0.420088
+batch 1 g_loss : 1.068260
+batch 2 d_loss : 0.419889
+batch 2 g_loss : 1.058132
+Epoch is 16
+Number of batches 3
+batch 0 d_loss : 0.419797
+batch 0 g_loss : 1.093504
+batch 1 d_loss : 0.396498
+batch 1 g_loss : 1.076622
+batch 2 d_loss : 0.389364
+batch 2 g_loss : 1.090405
+Epoch is 17
+Number of batches 3
+batch 0 d_loss : 0.395585
+batch 0 g_loss : 1.075193
+batch 1 d_loss : 0.372376
+batch 1 g_loss : 1.074175
+batch 2 d_loss : 0.381005
+batch 2 g_loss : 1.104468
+Epoch is 18
+Number of batches 3
+batch 0 d_loss : 0.380500
+batch 0 g_loss : 1.130934
+batch 1 d_loss : 0.364635
+batch 1 g_loss : 1.133046
+batch 2 d_loss : 0.363336
+batch 2 g_loss : 1.140720
+Epoch is 19
+Number of batches 3
+batch 0 d_loss : 0.355177
+batch 0 g_loss : 1.189143
+batch 1 d_loss : 0.333374
+batch 1 g_loss : 1.172391
+batch 2 d_loss : 0.338787
+batch 2 g_loss : 1.227721
+Epoch is 20
+Number of batches 3
+batch 0 d_loss : 0.342802
+batch 0 g_loss : 1.237207
+batch 1 d_loss : 0.316111
+batch 1 g_loss : 1.302798
+batch 2 d_loss : 0.317975
+batch 2 g_loss : 1.284705
+Epoch is 21
+Number of batches 3
+batch 0 d_loss : 0.324766
+batch 0 g_loss : 1.342373
+batch 1 d_loss : 0.297249
+batch 1 g_loss : 1.385464
+batch 2 d_loss : 0.296265
+batch 2 g_loss : 1.376714
+Epoch is 22
+Number of batches 3
+batch 0 d_loss : 0.306014
+batch 0 g_loss : 1.423178
+batch 1 d_loss : 0.272913
+batch 1 g_loss : 1.409289
+batch 2 d_loss : 0.284340
+batch 2 g_loss : 1.419895
+Epoch is 23
+Number of batches 3
+batch 0 d_loss : 0.289381
+batch 0 g_loss : 1.412408
+batch 1 d_loss : 0.253325
+batch 1 g_loss : 1.455580
+batch 2 d_loss : 0.264934
+batch 2 g_loss : 1.546624
+Epoch is 24
+Number of batches 3
+batch 0 d_loss : 0.264940
+batch 0 g_loss : 1.542000
+batch 1 d_loss : 0.245228
+batch 1 g_loss : 1.560814
+batch 2 d_loss : 0.250187
+batch 2 g_loss : 1.569766
+Epoch is 25
+Number of batches 3
+batch 0 d_loss : 0.252477
+batch 0 g_loss : 1.567170
+batch 1 d_loss : 0.218708
+batch 1 g_loss : 1.627049
+batch 2 d_loss : 0.225314
+batch 2 g_loss : 1.608492
+Epoch is 26
+Number of batches 3
+batch 0 d_loss : 0.233401
+batch 0 g_loss : 1.652405
+batch 1 d_loss : 0.204078
+batch 1 g_loss : 1.653184
+batch 2 d_loss : 0.217189
+batch 2 g_loss : 1.758855
+Epoch is 27
+Number of batches 3
+batch 0 d_loss : 0.213132
+batch 0 g_loss : 1.610123
+batch 1 d_loss : 0.186260
+batch 1 g_loss : 1.678618
+batch 2 d_loss : 0.202989
+batch 2 g_loss : 1.752908
+Epoch is 28
+Number of batches 3
+batch 0 d_loss : 0.202106
+batch 0 g_loss : 1.683414
+batch 1 d_loss : 0.162644
+batch 1 g_loss : 1.764345
+batch 2 d_loss : 0.186785
+batch 2 g_loss : 1.771431
+Epoch is 29
+Number of batches 3
+batch 0 d_loss : 0.176006
+batch 0 g_loss : 1.744664
+batch 1 d_loss : 0.161893
+batch 1 g_loss : 1.770302
+batch 2 d_loss : 0.184602
+batch 2 g_loss : 1.775748
+Epoch is 30
+Number of batches 3
+batch 0 d_loss : 0.174478
+batch 0 g_loss : 1.852203
+batch 1 d_loss : 0.142142
+batch 1 g_loss : 1.737782
+batch 2 d_loss : 0.167727
+batch 2 g_loss : 1.794972
+Epoch is 31
+Number of batches 3
+batch 0 d_loss : 0.161799
+batch 0 g_loss : 1.808484
+batch 1 d_loss : 0.132884
+batch 1 g_loss : 1.885056
+batch 2 d_loss : 0.155437
+batch 2 g_loss : 1.785651
+Epoch is 32
+Number of batches 3
+batch 0 d_loss : 0.158007
+batch 0 g_loss : 1.772201
+batch 1 d_loss : 0.120951
+batch 1 g_loss : 1.806089
+batch 2 d_loss : 0.159276
+batch 2 g_loss : 1.695661
+Epoch is 33
+Number of batches 3
+batch 0 d_loss : 0.133149
+batch 0 g_loss : 1.820131
+batch 1 d_loss : 0.120035
+batch 1 g_loss : 1.907151
+batch 2 d_loss : 0.142710
+batch 2 g_loss : 2.108926
+Epoch is 34
+Number of batches 3
+batch 0 d_loss : 0.148499
+batch 0 g_loss : 1.725992
+batch 1 d_loss : 0.116699
+batch 1 g_loss : 1.956413
+batch 2 d_loss : 0.134794
+batch 2 g_loss : 1.806944
+Epoch is 35
+Number of batches 3
+batch 0 d_loss : 0.121881
+batch 0 g_loss : 2.022898
+batch 1 d_loss : 0.095254
+batch 1 g_loss : 1.969540
+batch 2 d_loss : 0.133699
+batch 2 g_loss : 1.663515
+Epoch is 36
+Number of batches 3
+batch 0 d_loss : 0.123237
+batch 0 g_loss : 1.562161
+batch 1 d_loss : 0.103680
+batch 1 g_loss : 1.686018
+batch 2 d_loss : 0.137021
+batch 2 g_loss : 1.710132
+Epoch is 37
+Number of batches 3
+batch 0 d_loss : 0.132409
+batch 0 g_loss : 1.618220
+batch 1 d_loss : 0.093003
+batch 1 g_loss : 1.654964
+batch 2 d_loss : 0.129147
+batch 2 g_loss : 1.676306
+Epoch is 38
+Number of batches 3
+batch 0 d_loss : 0.112254
+batch 0 g_loss : 1.534210
+batch 1 d_loss : 0.092545
+batch 1 g_loss : 1.685268
+batch 2 d_loss : 0.128953
+batch 2 g_loss : 1.561944
+Epoch is 39
+Number of batches 3
+batch 0 d_loss : 0.133987
+batch 0 g_loss : 1.672013
+batch 1 d_loss : 0.101943
+batch 1 g_loss : 1.574077
+batch 2 d_loss : 0.167747
+batch 2 g_loss : 1.847564
+Epoch is 40
+Number of batches 3
+batch 0 d_loss : 0.134174
+batch 0 g_loss : 1.777805
+batch 1 d_loss : 0.099358
+batch 1 g_loss : 1.308891
+batch 2 d_loss : 0.165140
+batch 2 g_loss : 1.407367
+Epoch is 41
+Number of batches 3
+batch 0 d_loss : 0.161614
+batch 0 g_loss : 1.368369
+batch 1 d_loss : 0.097773
+batch 1 g_loss : 1.762790
+batch 2 d_loss : 0.147650
+batch 2 g_loss : 1.807521
+Epoch is 42
+Number of batches 3
+batch 0 d_loss : 0.140037
+batch 0 g_loss : 1.713835
+batch 1 d_loss : 0.092600
+batch 1 g_loss : 1.516259
+batch 2 d_loss : 0.184391
+batch 2 g_loss : 1.146322
+Epoch is 43
+Number of batches 3
+batch 0 d_loss : 0.119173
+batch 0 g_loss : 1.164577
+batch 1 d_loss : 0.154142
+batch 1 g_loss : 1.097494
+batch 2 d_loss : 0.180560
+batch 2 g_loss : 0.930537
+Epoch is 44
+Number of batches 3
+batch 0 d_loss : 0.252019
+batch 0 g_loss : 1.062632
+batch 1 d_loss : 0.160877
+batch 1 g_loss : 1.537271
+batch 2 d_loss : 0.221173
+batch 2 g_loss : 1.617284
+Epoch is 45
+Number of batches 3
+batch 0 d_loss : 0.215713
+batch 0 g_loss : 1.151523
+batch 1 d_loss : 0.191093
+batch 1 g_loss : 1.281385
+batch 2 d_loss : 0.323346
+batch 2 g_loss : 1.357256
+Epoch is 46
+Number of batches 3
+batch 0 d_loss : 0.190841
+batch 0 g_loss : 1.544939
+batch 1 d_loss : 0.162629
+batch 1 g_loss : 0.983461
+batch 2 d_loss : 0.231983
+batch 2 g_loss : 1.560463
+Epoch is 47
+Number of batches 3
+batch 0 d_loss : 0.306987
+batch 0 g_loss : 1.508992
+batch 1 d_loss : 0.146807
+batch 1 g_loss : 1.214883
+batch 2 d_loss : 0.265145
+batch 2 g_loss : 1.029750
+Epoch is 48
+Number of batches 3
+batch 0 d_loss : 0.218379
+batch 0 g_loss : 0.650866
+batch 1 d_loss : 0.269194
+batch 1 g_loss : 1.539041
+batch 2 d_loss : 0.334394
+batch 2 g_loss : 1.392226
+Epoch is 49
+Number of batches 3
+batch 0 d_loss : 0.298506
+batch 0 g_loss : 1.527002
+batch 1 d_loss : 0.268860
+batch 1 g_loss : 1.401941
+batch 2 d_loss : 0.359402
+batch 2 g_loss : 1.006588
+Epoch is 50
+Number of batches 3
+batch 0 d_loss : 0.258233
+batch 0 g_loss : 1.093498
+batch 1 d_loss : 0.321084
+batch 1 g_loss : 1.024259
+batch 2 d_loss : 0.401532
+batch 2 g_loss : 1.227671
+Epoch is 51
+Number of batches 3
+batch 0 d_loss : 0.455004
+batch 0 g_loss : 1.303840
+batch 1 d_loss : 0.242914
+batch 1 g_loss : 1.165350
+batch 2 d_loss : 0.436040
+batch 2 g_loss : 0.901977
+Epoch is 52
+Number of batches 3
+batch 0 d_loss : 0.340287
+batch 0 g_loss : 0.911158
+batch 1 d_loss : 0.364538
+batch 1 g_loss : 1.485818
+batch 2 d_loss : 0.482131
+batch 2 g_loss : 1.296708
+Epoch is 53
+Number of batches 3
+batch 0 d_loss : 0.478937
+batch 0 g_loss : 1.700881
+batch 1 d_loss : 0.323107
+batch 1 g_loss : 1.151609
+batch 2 d_loss : 0.484955
+batch 2 g_loss : 1.082078
+Epoch is 54
+Number of batches 3
+batch 0 d_loss : 0.468459
+batch 0 g_loss : 0.784643
+batch 1 d_loss : 0.385726
+batch 1 g_loss : 1.431298
+batch 2 d_loss : 0.421222
+batch 2 g_loss : 1.129614
+Epoch is 55
+Number of batches 3
+batch 0 d_loss : 0.495522
+batch 0 g_loss : 0.869474
+batch 1 d_loss : 0.286112
+batch 1 g_loss : 1.404789
+batch 2 d_loss : 0.422062
+batch 2 g_loss : 0.948039
+Epoch is 56
+Number of batches 3
+batch 0 d_loss : 0.451104
+batch 0 g_loss : 1.081635
+batch 1 d_loss : 0.515478
+batch 1 g_loss : 0.883265
+batch 2 d_loss : 0.503782
+batch 2 g_loss : 1.402532
+Epoch is 57
+Number of batches 3
+batch 0 d_loss : 0.418942
+batch 0 g_loss : 1.410260
+batch 1 d_loss : 0.323724
+batch 1 g_loss : 1.213767
+batch 2 d_loss : 0.434009
+batch 2 g_loss : 0.727041
+Epoch is 58
+Number of batches 3
+batch 0 d_loss : 0.633323
+batch 0 g_loss : 1.011068
+batch 1 d_loss : 0.336184
+batch 1 g_loss : 1.336268
+batch 2 d_loss : 0.458063
+batch 2 g_loss : 1.380325
+Epoch is 59
+Number of batches 3
+batch 0 d_loss : 0.438385
+batch 0 g_loss : 1.303891
+batch 1 d_loss : 0.347538
+batch 1 g_loss : 1.442276
+batch 2 d_loss : 0.682669
+batch 2 g_loss : 1.373984
+Epoch is 60
+Number of batches 3
+batch 0 d_loss : 0.640293
+batch 0 g_loss : 1.361701
+batch 1 d_loss : 0.277586
+batch 1 g_loss : 0.763857
+batch 2 d_loss : 0.408280
+batch 2 g_loss : 1.361475
+Epoch is 61
+Number of batches 3
+batch 0 d_loss : 0.507167
+batch 0 g_loss : 1.290573
+batch 1 d_loss : 0.404949
+batch 1 g_loss : 1.073227
+batch 2 d_loss : 0.584713
+batch 2 g_loss : 1.307824
+Epoch is 62
+Number of batches 3
+batch 0 d_loss : 0.551420
+batch 0 g_loss : 1.714842
+batch 1 d_loss : 0.357724
+batch 1 g_loss : 1.698482
+batch 2 d_loss : 0.619771
+batch 2 g_loss : 1.556074
+Epoch is 63
+Number of batches 3
+batch 0 d_loss : 0.617053
+batch 0 g_loss : 0.989903
+batch 1 d_loss : 0.287470
+batch 1 g_loss : 1.352943
+batch 2 d_loss : 0.434854
+batch 2 g_loss : 1.173048
+Epoch is 64
+Number of batches 3
+batch 0 d_loss : 0.404751
+batch 0 g_loss : 1.081793
+batch 1 d_loss : 0.330616
+batch 1 g_loss : 1.111354
+batch 2 d_loss : 0.523112
+batch 2 g_loss : 1.019046
+Epoch is 65
+Number of batches 3
+batch 0 d_loss : 0.549174
+batch 0 g_loss : 1.403720
+batch 1 d_loss : 0.286505
+batch 1 g_loss : 1.347060
+batch 2 d_loss : 0.472025
+batch 2 g_loss : 1.662809
+Epoch is 66
+Number of batches 3
+batch 0 d_loss : 0.387572
+batch 0 g_loss : 1.335704
+batch 1 d_loss : 0.455839
+batch 1 g_loss : 1.493044
+batch 2 d_loss : 0.381446
+batch 2 g_loss : 1.001460
+Epoch is 67
+Number of batches 3
+batch 0 d_loss : 0.378949
+batch 0 g_loss : 0.962723
+batch 1 d_loss : 0.551934
+batch 1 g_loss : 1.116073
+batch 2 d_loss : 0.445986
+batch 2 g_loss : 1.415262
+Epoch is 68
+Number of batches 3
+batch 0 d_loss : 0.411531
+batch 0 g_loss : 1.370473
+batch 1 d_loss : 0.382658
+batch 1 g_loss : 1.406883
+batch 2 d_loss : 0.396387
+batch 2 g_loss : 1.582908
+Epoch is 69
+Number of batches 3
+batch 0 d_loss : 0.458748
+batch 0 g_loss : 1.534658
+batch 1 d_loss : 0.343988
+batch 1 g_loss : 1.328950
+batch 2 d_loss : 0.390369
+batch 2 g_loss : 1.555044
+Epoch is 70
+Number of batches 3
+batch 0 d_loss : 0.500466
+batch 0 g_loss : 1.415791
+batch 1 d_loss : 0.439252
+batch 1 g_loss : 1.830082
+batch 2 d_loss : 0.460801
+batch 2 g_loss : 1.241482
+Epoch is 71
+Number of batches 3
+batch 0 d_loss : 0.403885
+batch 0 g_loss : 1.035421
+batch 1 d_loss : 0.307782
+batch 1 g_loss : 1.545199
+batch 2 d_loss : 0.516946
+batch 2 g_loss : 1.316077
+Epoch is 72
+Number of batches 3
+batch 0 d_loss : 0.429611
+batch 0 g_loss : 1.029356
+batch 1 d_loss : 0.379781
+batch 1 g_loss : 1.438583
+batch 2 d_loss : 0.481268
+batch 2 g_loss : 1.528807
+Epoch is 73
+Number of batches 3
+batch 0 d_loss : 0.426773
+batch 0 g_loss : 1.598076
+batch 1 d_loss : 0.335103
+batch 1 g_loss : 1.536671
+batch 2 d_loss : 0.391431
+batch 2 g_loss : 1.363907
+Epoch is 74
+Number of batches 3
+batch 0 d_loss : 0.395490
+batch 0 g_loss : 1.185409
+batch 1 d_loss : 0.419571
+batch 1 g_loss : 1.654631
+batch 2 d_loss : 0.436971
+batch 2 g_loss : 1.467375
+Epoch is 75
+Number of batches 3
+batch 0 d_loss : 0.479006
+batch 0 g_loss : 1.255604
+batch 1 d_loss : 0.405812
+batch 1 g_loss : 1.445108
+batch 2 d_loss : 0.406128
+batch 2 g_loss : 1.356442
+Epoch is 76
+Number of batches 3
+batch 0 d_loss : 0.554722
+batch 0 g_loss : 1.343251
+batch 1 d_loss : 0.456229
+batch 1 g_loss : 1.880125
+batch 2 d_loss : 0.462638
+batch 2 g_loss : 1.488827
+Epoch is 77
+Number of batches 3
+batch 0 d_loss : 0.469066
+batch 0 g_loss : 1.155219
+batch 1 d_loss : 0.320314
+batch 1 g_loss : 1.433699
+batch 2 d_loss : 0.411290
+batch 2 g_loss : 1.337907
+Epoch is 78
+Number of batches 3
+batch 0 d_loss : 0.504389
+batch 0 g_loss : 1.182459
+batch 1 d_loss : 0.369057
+batch 1 g_loss : 1.255450
+batch 2 d_loss : 0.464926
+batch 2 g_loss : 1.550195
+Epoch is 79
+Number of batches 3
+batch 0 d_loss : 0.444962
+batch 0 g_loss : 1.278402
+batch 1 d_loss : 0.309366
+batch 1 g_loss : 1.533842
+batch 2 d_loss : 0.398389
+batch 2 g_loss : 1.469761
+Epoch is 80
+Number of batches 3
+batch 0 d_loss : 0.464358
+batch 0 g_loss : 1.321015
+batch 1 d_loss : 0.338870
+batch 1 g_loss : 1.794723
+batch 2 d_loss : 0.405300
+batch 2 g_loss : 1.602901
+Epoch is 81
+Number of batches 3
+batch 0 d_loss : 0.422100
+batch 0 g_loss : 1.401045
+batch 1 d_loss : 0.318099
+batch 1 g_loss : 1.418046
+batch 2 d_loss : 0.400838
+batch 2 g_loss : 1.587232
+Epoch is 82
+Number of batches 3
+batch 0 d_loss : 0.471830
+batch 0 g_loss : 1.296075
+batch 1 d_loss : 0.468470
+batch 1 g_loss : 1.642979
+batch 2 d_loss : 0.413142
+batch 2 g_loss : 1.508596
+Epoch is 83
+Number of batches 3
+batch 0 d_loss : 0.520597
+batch 0 g_loss : 1.470702
+batch 1 d_loss : 0.388735
+batch 1 g_loss : 1.521543
+batch 2 d_loss : 0.424649
+batch 2 g_loss : 1.469426
+Epoch is 84
+Number of batches 3
+batch 0 d_loss : 0.418905
+batch 0 g_loss : 1.442602
+batch 1 d_loss : 0.328247
+batch 1 g_loss : 1.484710
+batch 2 d_loss : 0.465622
+batch 2 g_loss : 1.259476
+Epoch is 85
+Number of batches 3
+batch 0 d_loss : 0.512042
+batch 0 g_loss : 1.545882
+batch 1 d_loss : 0.330359
+batch 1 g_loss : 1.513624
+batch 2 d_loss : 0.366880
+batch 2 g_loss : 1.266495
+Epoch is 86
+Number of batches 3
+batch 0 d_loss : 0.449198
+batch 0 g_loss : 1.297862
+batch 1 d_loss : 0.315620
+batch 1 g_loss : 1.083457
+batch 2 d_loss : 0.343946
+batch 2 g_loss : 1.174747
+Epoch is 87
+Number of batches 3
+batch 0 d_loss : 0.371840
+batch 0 g_loss : 1.119928
+batch 1 d_loss : 0.400543
+batch 1 g_loss : 1.331307
+batch 2 d_loss : 0.328695
+batch 2 g_loss : 1.385136
+Epoch is 88
+Number of batches 3
+batch 0 d_loss : 0.482242
+batch 0 g_loss : 1.309581
+batch 1 d_loss : 0.414555
+batch 1 g_loss : 1.290046
+batch 2 d_loss : 0.459157
+batch 2 g_loss : 1.303094
+Epoch is 89
+Number of batches 3
+batch 0 d_loss : 0.550810
+batch 0 g_loss : 1.534971
+batch 1 d_loss : 0.353467
+batch 1 g_loss : 1.523392
+batch 2 d_loss : 0.393412
+batch 2 g_loss : 1.472446
+Epoch is 90
+Number of batches 3
+batch 0 d_loss : 0.439328
+batch 0 g_loss : 0.978957
+batch 1 d_loss : 0.376942
+batch 1 g_loss : 1.016744
+batch 2 d_loss : 0.498178
+batch 2 g_loss : 1.385067
+Epoch is 91
+Number of batches 3
+batch 0 d_loss : 0.442060
+batch 0 g_loss : 1.057874
+batch 1 d_loss : 0.295465
+batch 1 g_loss : 1.244230
+batch 2 d_loss : 0.451096
+batch 2 g_loss : 1.288092
+Epoch is 92
+Number of batches 3
+batch 0 d_loss : 0.490953
+batch 0 g_loss : 1.380056
+batch 1 d_loss : 0.437494
+batch 1 g_loss : 1.237984
+batch 2 d_loss : 0.476959
+batch 2 g_loss : 1.362441
+Epoch is 93
+Number of batches 3
+batch 0 d_loss : 0.468342
+batch 0 g_loss : 1.045435
+batch 1 d_loss : 0.365240
+batch 1 g_loss : 1.282976
+batch 2 d_loss : 0.439795
+batch 2 g_loss : 1.374732
+Epoch is 94
+Number of batches 3
+batch 0 d_loss : 0.523279
+batch 0 g_loss : 1.241264
+batch 1 d_loss : 0.312930
+batch 1 g_loss : 1.245487
+batch 2 d_loss : 0.579366
+batch 2 g_loss : 1.487559
+Epoch is 95
+Number of batches 3
+batch 0 d_loss : 0.520878
+batch 0 g_loss : 1.114288
+batch 1 d_loss : 0.309986
+batch 1 g_loss : 1.592171
+batch 2 d_loss : 0.457109
+batch 2 g_loss : 0.997227
+Epoch is 96
+Number of batches 3
+batch 0 d_loss : 0.533743
+batch 0 g_loss : 1.329066
+batch 1 d_loss : 0.317553
+batch 1 g_loss : 1.279493
+batch 2 d_loss : 0.412651
+batch 2 g_loss : 1.203502
+Epoch is 97
+Number of batches 3
+batch 0 d_loss : 0.475728
+batch 0 g_loss : 1.203139
+batch 1 d_loss : 0.495665
+batch 1 g_loss : 1.454285
+batch 2 d_loss : 0.506328
+batch 2 g_loss : 2.019005
+Epoch is 98
+Number of batches 3
+batch 0 d_loss : 0.437979
+batch 0 g_loss : 1.237430
+batch 1 d_loss : 0.396254
+batch 1 g_loss : 1.025077
+batch 2 d_loss : 0.564257
+batch 2 g_loss : 1.602338
+Epoch is 99
+Number of batches 3
+batch 0 d_loss : 0.554833
+batch 0 g_loss : 1.244906
+batch 1 d_loss : 0.328714
+batch 1 g_loss : 1.262747
+batch 2 d_loss : 0.517491
+batch 2 g_loss : 1.482399
+Epoch is 100
+Number of batches 3
+batch 0 d_loss : 0.514967
+batch 0 g_loss : 1.266366
+batch 1 d_loss : 0.416949
+batch 1 g_loss : 1.449683
+batch 2 d_loss : 0.434092
+batch 2 g_loss : 1.079029
+Epoch is 101
+Number of batches 3
+batch 0 d_loss : 0.567348
+batch 0 g_loss : 1.485676
+batch 1 d_loss : 0.388745
+batch 1 g_loss : 1.334792
+batch 2 d_loss : 0.424528
+batch 2 g_loss : 1.487604
+Epoch is 102
+Number of batches 3
+batch 0 d_loss : 0.580599
+batch 0 g_loss : 1.260661
+batch 1 d_loss : 0.417097
+batch 1 g_loss : 1.484806
+batch 2 d_loss : 0.416657
+batch 2 g_loss : 1.068167
+Epoch is 103
+Number of batches 3
+batch 0 d_loss : 0.559690
+batch 0 g_loss : 1.471660
+batch 1 d_loss : 0.385853
+batch 1 g_loss : 1.347519
+batch 2 d_loss : 0.440725
+batch 2 g_loss : 1.363876
+Epoch is 104
+Number of batches 3
+batch 0 d_loss : 0.670260
+batch 0 g_loss : 1.413196
+batch 1 d_loss : 0.373043
+batch 1 g_loss : 1.301576
+batch 2 d_loss : 0.381279
+batch 2 g_loss : 1.311691
+Epoch is 105
+Number of batches 3
+batch 0 d_loss : 0.416059
+batch 0 g_loss : 0.811646
+batch 1 d_loss : 0.444811
+batch 1 g_loss : 1.308042
+batch 2 d_loss : 0.502226
+batch 2 g_loss : 1.651739
+Epoch is 106
+Number of batches 3
+batch 0 d_loss : 0.523703
+batch 0 g_loss : 1.524655
+batch 1 d_loss : 0.377978
+batch 1 g_loss : 1.475123
+batch 2 d_loss : 0.391068
+batch 2 g_loss : 1.228674
+Epoch is 107
+Number of batches 3
+batch 0 d_loss : 0.550981
+batch 0 g_loss : 1.054573
+batch 1 d_loss : 0.387958
+batch 1 g_loss : 1.271273
+batch 2 d_loss : 0.430361
+batch 2 g_loss : 1.540338
+Epoch is 108
+Number of batches 3
+batch 0 d_loss : 0.501664
+batch 0 g_loss : 1.409777
+batch 1 d_loss : 0.401891
+batch 1 g_loss : 1.411559
+batch 2 d_loss : 0.353158
+batch 2 g_loss : 1.342258
+Epoch is 109
+Number of batches 3
+batch 0 d_loss : 0.519917
+batch 0 g_loss : 1.366348
+batch 1 d_loss : 0.395095
+batch 1 g_loss : 1.197141
+batch 2 d_loss : 0.469033
+batch 2 g_loss : 1.489829
+Epoch is 110
+Number of batches 3
+batch 0 d_loss : 0.486155
+batch 0 g_loss : 1.360627
+batch 1 d_loss : 0.425427
+batch 1 g_loss : 1.323160
+batch 2 d_loss : 0.405640
+batch 2 g_loss : 1.109384
+Epoch is 111
+Number of batches 3
+batch 0 d_loss : 0.479595
+batch 0 g_loss : 1.280245
+batch 1 d_loss : 0.330104
+batch 1 g_loss : 1.135722
+batch 2 d_loss : 0.362541
+batch 2 g_loss : 1.133880
+Epoch is 112
+Number of batches 3
+batch 0 d_loss : 0.515219
+batch 0 g_loss : 1.588580
+batch 1 d_loss : 0.429026
+batch 1 g_loss : 1.556985
+batch 2 d_loss : 0.409857
+batch 2 g_loss : 1.358440
+Epoch is 113
+Number of batches 3
+batch 0 d_loss : 0.560860
+batch 0 g_loss : 0.994946
+batch 1 d_loss : 0.486761
+batch 1 g_loss : 1.304140
+batch 2 d_loss : 0.458283
+batch 2 g_loss : 1.595033
+Epoch is 114
+Number of batches 3
+batch 0 d_loss : 0.499667
+batch 0 g_loss : 1.202355
+batch 1 d_loss : 0.406439
+batch 1 g_loss : 1.667946
+batch 2 d_loss : 0.357419
+batch 2 g_loss : 1.289060
+Epoch is 115
+Number of batches 3
+batch 0 d_loss : 0.495317
+batch 0 g_loss : 0.914486
+batch 1 d_loss : 0.362515
+batch 1 g_loss : 1.406882
+batch 2 d_loss : 0.412873
+batch 2 g_loss : 1.413503
+Epoch is 116
+Number of batches 3
+batch 0 d_loss : 0.431129
+batch 0 g_loss : 1.121219
+batch 1 d_loss : 0.377477
+batch 1 g_loss : 1.204149
+batch 2 d_loss : 0.372721
+batch 2 g_loss : 1.019507
+Epoch is 117
+Number of batches 3
+batch 0 d_loss : 0.521077
+batch 0 g_loss : 1.512619
+batch 1 d_loss : 0.350830
+batch 1 g_loss : 1.411842
+batch 2 d_loss : 0.356714
+batch 2 g_loss : 1.064041
+Epoch is 118
+Number of batches 3
+batch 0 d_loss : 0.547151
+batch 0 g_loss : 1.661039
+batch 1 d_loss : 0.404938
+batch 1 g_loss : 1.474362
+batch 2 d_loss : 0.518085
+batch 2 g_loss : 1.656909
+Epoch is 119
+Number of batches 3
+batch 0 d_loss : 0.498389
+batch 0 g_loss : 1.507699
+batch 1 d_loss : 0.436369
+batch 1 g_loss : 1.445933
+batch 2 d_loss : 0.359599
+batch 2 g_loss : 1.430858
+Epoch is 120
+Number of batches 3
+batch 0 d_loss : 0.540624
+batch 0 g_loss : 1.480955
+batch 1 d_loss : 0.390601
+batch 1 g_loss : 1.168997
+batch 2 d_loss : 0.422289
+batch 2 g_loss : 1.418979
+Epoch is 121
+Number of batches 3
+batch 0 d_loss : 0.489541
+batch 0 g_loss : 1.216746
+batch 1 d_loss : 0.312496
+batch 1 g_loss : 1.482563
+batch 2 d_loss : 0.386661
+batch 2 g_loss : 1.351937
+Epoch is 122
+Number of batches 3
+batch 0 d_loss : 0.524526
+batch 0 g_loss : 1.402251
+batch 1 d_loss : 0.482330
+batch 1 g_loss : 1.598668
+batch 2 d_loss : 0.443472
+batch 2 g_loss : 1.228256
+Epoch is 123
+Number of batches 3
+batch 0 d_loss : 0.459967
+batch 0 g_loss : 1.181404
+batch 1 d_loss : 0.538777
+batch 1 g_loss : 1.268474
+batch 2 d_loss : 0.422681
+batch 2 g_loss : 1.739842
+Epoch is 124
+Number of batches 3
+batch 0 d_loss : 0.477373
+batch 0 g_loss : 1.118212
+batch 1 d_loss : 0.336973
+batch 1 g_loss : 0.755143
+batch 2 d_loss : 0.370581
+batch 2 g_loss : 1.034521
+Epoch is 125
+Number of batches 3
+batch 0 d_loss : 0.473565
+batch 0 g_loss : 1.172365
+batch 1 d_loss : 0.377561
+batch 1 g_loss : 1.376876
+batch 2 d_loss : 0.408636
+batch 2 g_loss : 1.222870
+Epoch is 126
+Number of batches 3
+batch 0 d_loss : 0.479014
+batch 0 g_loss : 1.122323
+batch 1 d_loss : 0.279790
+batch 1 g_loss : 1.505950
+batch 2 d_loss : 0.456842
+batch 2 g_loss : 1.411857
+Epoch is 127
+Number of batches 3
+batch 0 d_loss : 0.510326
+batch 0 g_loss : 1.434237
+batch 1 d_loss : 0.399476
+batch 1 g_loss : 1.193738
+batch 2 d_loss : 0.412121
+batch 2 g_loss : 1.366238
+Epoch is 128
+Number of batches 3
+batch 0 d_loss : 0.511291
+batch 0 g_loss : 1.398930
+batch 1 d_loss : 0.377552
+batch 1 g_loss : 1.189139
+batch 2 d_loss : 0.399080
+batch 2 g_loss : 1.170115
+Epoch is 129
+Number of batches 3
+batch 0 d_loss : 0.622072
+batch 0 g_loss : 1.013041
+batch 1 d_loss : 0.418622
+batch 1 g_loss : 1.511610
+batch 2 d_loss : 0.410563
+batch 2 g_loss : 1.380529
+Epoch is 130
+Number of batches 3
+batch 0 d_loss : 0.582234
+batch 0 g_loss : 1.382250
+batch 1 d_loss : 0.322884
+batch 1 g_loss : 1.349813
+batch 2 d_loss : 0.431771
+batch 2 g_loss : 1.616809
+Epoch is 131
+Number of batches 3
+batch 0 d_loss : 0.450446
+batch 0 g_loss : 0.998069
+batch 1 d_loss : 0.304350
+batch 1 g_loss : 1.078282
+batch 2 d_loss : 0.443055
+batch 2 g_loss : 1.407688
+Epoch is 132
+Number of batches 3
+batch 0 d_loss : 0.485181
+batch 0 g_loss : 1.284994
+batch 1 d_loss : 0.383748
+batch 1 g_loss : 1.770885
+batch 2 d_loss : 0.456116
+batch 2 g_loss : 1.260190
+Epoch is 133
+Number of batches 3
+batch 0 d_loss : 0.545522
+batch 0 g_loss : 1.431403
+batch 1 d_loss : 0.343436
+batch 1 g_loss : 1.585419
+batch 2 d_loss : 0.350923
+batch 2 g_loss : 1.070080
+Epoch is 134
+Number of batches 3
+batch 0 d_loss : 0.446037
+batch 0 g_loss : 1.035591
+batch 1 d_loss : 0.396822
+batch 1 g_loss : 1.374574
+batch 2 d_loss : 0.413372
+batch 2 g_loss : 1.568084
+Epoch is 135
+Number of batches 3
+batch 0 d_loss : 0.417607
+batch 0 g_loss : 0.869834
+batch 1 d_loss : 0.429135
+batch 1 g_loss : 1.469121
+batch 2 d_loss : 0.483414
+batch 2 g_loss : 1.815158
+Epoch is 136
+Number of batches 3
+batch 0 d_loss : 0.505942
+batch 0 g_loss : 1.264259
+batch 1 d_loss : 0.352839
+batch 1 g_loss : 1.172722
+batch 2 d_loss : 0.454574
+batch 2 g_loss : 1.458915
+Epoch is 137
+Number of batches 3
+batch 0 d_loss : 0.437549
+batch 0 g_loss : 1.387130
+batch 1 d_loss : 0.451298
+batch 1 g_loss : 1.531110
+batch 2 d_loss : 0.472320
+batch 2 g_loss : 1.544749
+Epoch is 138
+Number of batches 3
+batch 0 d_loss : 0.462209
+batch 0 g_loss : 0.862210
+batch 1 d_loss : 0.369692
+batch 1 g_loss : 1.254501
+batch 2 d_loss : 0.453788
+batch 2 g_loss : 1.157706
+Epoch is 139
+Number of batches 3
+batch 0 d_loss : 0.534766
+batch 0 g_loss : 1.516986
+batch 1 d_loss : 0.318161
+batch 1 g_loss : 1.309149
+batch 2 d_loss : 0.558786
+batch 2 g_loss : 1.771304
+Epoch is 140
+Number of batches 3
+batch 0 d_loss : 0.509134
+batch 0 g_loss : 0.883426
+batch 1 d_loss : 0.364078
+batch 1 g_loss : 1.199427
+batch 2 d_loss : 0.533649
+batch 2 g_loss : 1.322523
+Epoch is 141
+Number of batches 3
+batch 0 d_loss : 0.412936
+batch 0 g_loss : 1.111571
+batch 1 d_loss : 0.446188
+batch 1 g_loss : 1.509657
+batch 2 d_loss : 0.410825
+batch 2 g_loss : 1.363329
+Epoch is 142
+Number of batches 3
+batch 0 d_loss : 0.556082
+batch 0 g_loss : 1.547555
+batch 1 d_loss : 0.377967
+batch 1 g_loss : 1.272674
+batch 2 d_loss : 0.493038
+batch 2 g_loss : 1.613392
+Epoch is 143
+Number of batches 3
+batch 0 d_loss : 0.590006
+batch 0 g_loss : 1.601238
+batch 1 d_loss : 0.416264
+batch 1 g_loss : 1.775499
+batch 2 d_loss : 0.364106
+batch 2 g_loss : 1.286780
+Epoch is 144
+Number of batches 3
+batch 0 d_loss : 0.501231
+batch 0 g_loss : 1.555640
+batch 1 d_loss : 0.487084
+batch 1 g_loss : 1.312961
+batch 2 d_loss : 0.407992
+batch 2 g_loss : 1.511481
+Epoch is 145
+Number of batches 3
+batch 0 d_loss : 0.491814
+batch 0 g_loss : 1.119269
+batch 1 d_loss : 0.372972
+batch 1 g_loss : 1.311341
+batch 2 d_loss : 0.393179
+batch 2 g_loss : 1.319628
+Epoch is 146
+Number of batches 3
+batch 0 d_loss : 0.529490
+batch 0 g_loss : 1.196685
+batch 1 d_loss : 0.313339
+batch 1 g_loss : 1.356745
+batch 2 d_loss : 0.454468
+batch 2 g_loss : 1.567546
+Epoch is 147
+Number of batches 3
+batch 0 d_loss : 0.578436
+batch 0 g_loss : 1.581598
+batch 1 d_loss : 0.394179
+batch 1 g_loss : 1.182212
+batch 2 d_loss : 0.420657
+batch 2 g_loss : 1.342135
+Epoch is 148
+Number of batches 3
+batch 0 d_loss : 0.483424
+batch 0 g_loss : 1.063431
+batch 1 d_loss : 0.389931
+batch 1 g_loss : 1.403357
+batch 2 d_loss : 0.422803
+batch 2 g_loss : 1.376484
+Epoch is 149
+Number of batches 3
+batch 0 d_loss : 0.503577
+batch 0 g_loss : 1.223328
+batch 1 d_loss : 0.440407
+batch 1 g_loss : 1.512718
+batch 2 d_loss : 0.372475
+batch 2 g_loss : 1.002871
+Epoch is 150
+Number of batches 3
+batch 0 d_loss : 0.602130
+batch 0 g_loss : 1.342390
+batch 1 d_loss : 0.434151
+batch 1 g_loss : 1.537361
+batch 2 d_loss : 0.451125
+batch 2 g_loss : 1.250999
+Epoch is 151
+Number of batches 3
+batch 0 d_loss : 0.643590
+batch 0 g_loss : 1.248082
+batch 1 d_loss : 0.542755
+batch 1 g_loss : 1.840448
+batch 2 d_loss : 0.461484
+batch 2 g_loss : 1.485681
+Epoch is 152
+Number of batches 3
+batch 0 d_loss : 0.440688
+batch 0 g_loss : 1.054445
+batch 1 d_loss : 0.360759
+batch 1 g_loss : 1.489665
+batch 2 d_loss : 0.486700
+batch 2 g_loss : 1.092650
+Epoch is 153
+Number of batches 3
+batch 0 d_loss : 0.483920
+batch 0 g_loss : 1.673034
+batch 1 d_loss : 0.380288
+batch 1 g_loss : 1.276396
+batch 2 d_loss : 0.414195
+batch 2 g_loss : 1.338189
+Epoch is 154
+Number of batches 3
+batch 0 d_loss : 0.536330
+batch 0 g_loss : 1.631070
+batch 1 d_loss : 0.387219
+batch 1 g_loss : 1.190682
+batch 2 d_loss : 0.469459
+batch 2 g_loss : 1.601825
+Epoch is 155
+Number of batches 3
+batch 0 d_loss : 0.688320
+batch 0 g_loss : 1.417042
+batch 1 d_loss : 0.449065
+batch 1 g_loss : 1.504454
+batch 2 d_loss : 0.442430
+batch 2 g_loss : 1.357532
+Epoch is 156
+Number of batches 3
+batch 0 d_loss : 0.487470
+batch 0 g_loss : 1.283980
+batch 1 d_loss : 0.343435
+batch 1 g_loss : 1.070575
+batch 2 d_loss : 0.452949
+batch 2 g_loss : 1.223438
+Epoch is 157
+Number of batches 3
+batch 0 d_loss : 0.564494
+batch 0 g_loss : 1.137530
+batch 1 d_loss : 0.437325
+batch 1 g_loss : 1.593784
+batch 2 d_loss : 0.406433
+batch 2 g_loss : 1.189997
+Epoch is 158
+Number of batches 3
+batch 0 d_loss : 0.603277
+batch 0 g_loss : 1.311167
+batch 1 d_loss : 0.421361
+batch 1 g_loss : 1.414663
+batch 2 d_loss : 0.394498
+batch 2 g_loss : 1.130448
+Epoch is 159
+Number of batches 3
+batch 0 d_loss : 0.446277
+batch 0 g_loss : 1.194236
+batch 1 d_loss : 0.495647
+batch 1 g_loss : 1.891106
+batch 2 d_loss : 0.484521
+batch 2 g_loss : 1.419714
+Epoch is 160
+Number of batches 3
+batch 0 d_loss : 0.556205
+batch 0 g_loss : 1.405385
+batch 1 d_loss : 0.375409
+batch 1 g_loss : 1.536452
+batch 2 d_loss : 0.431596
+batch 2 g_loss : 1.438776
+Epoch is 161
+Number of batches 3
+batch 0 d_loss : 0.582622
+batch 0 g_loss : 1.255885
+batch 1 d_loss : 0.355031
+batch 1 g_loss : 1.186142
+batch 2 d_loss : 0.472505
+batch 2 g_loss : 1.391546
+Epoch is 162
+Number of batches 3
+batch 0 d_loss : 0.553172
+batch 0 g_loss : 1.231516
+batch 1 d_loss : 0.366754
+batch 1 g_loss : 1.321061
+batch 2 d_loss : 0.509187
+batch 2 g_loss : 1.409752
+Epoch is 163
+Number of batches 3
+batch 0 d_loss : 0.567526
+batch 0 g_loss : 0.992457
+batch 1 d_loss : 0.426904
+batch 1 g_loss : 1.595848
+batch 2 d_loss : 0.405065
+batch 2 g_loss : 1.078706
+Epoch is 164
+Number of batches 3
+batch 0 d_loss : 0.436657
+batch 0 g_loss : 0.958435
+batch 1 d_loss : 0.322211
+batch 1 g_loss : 0.713111
+batch 2 d_loss : 0.376500
+batch 2 g_loss : 1.321903
+Epoch is 165
+Number of batches 3
+batch 0 d_loss : 0.473376
+batch 0 g_loss : 0.895950
+batch 1 d_loss : 0.436656
+batch 1 g_loss : 1.412068
+batch 2 d_loss : 0.516938
+batch 2 g_loss : 1.707709
+Epoch is 166
+Number of batches 3
+batch 0 d_loss : 0.510013
+batch 0 g_loss : 1.176380
+batch 1 d_loss : 0.352605
+batch 1 g_loss : 1.268259
+batch 2 d_loss : 0.435088
+batch 2 g_loss : 1.513957
+Epoch is 167
+Number of batches 3
+batch 0 d_loss : 0.593857
+batch 0 g_loss : 1.254862
+batch 1 d_loss : 0.371610
+batch 1 g_loss : 1.686879
+batch 2 d_loss : 0.460796
+batch 2 g_loss : 1.407658
+Epoch is 168
+Number of batches 3
+batch 0 d_loss : 0.481573
+batch 0 g_loss : 1.023236
+batch 1 d_loss : 0.403004
+batch 1 g_loss : 1.617302
+batch 2 d_loss : 0.474256
+batch 2 g_loss : 1.642245
+Epoch is 169
+Number of batches 3
+batch 0 d_loss : 0.521132
+batch 0 g_loss : 1.027982
+batch 1 d_loss : 0.418638
+batch 1 g_loss : 2.084238
+batch 2 d_loss : 0.409454
+batch 2 g_loss : 1.126768
+Epoch is 170
+Number of batches 3
+batch 0 d_loss : 0.497597
+batch 0 g_loss : 1.408049
+batch 1 d_loss : 0.616096
+batch 1 g_loss : 2.296524
+batch 2 d_loss : 0.581003
+batch 2 g_loss : 1.909183
+Epoch is 171
+Number of batches 3
+batch 0 d_loss : 0.544750
+batch 0 g_loss : 1.331991
+batch 1 d_loss : 0.443447
+batch 1 g_loss : 1.293033
+batch 2 d_loss : 0.460019
+batch 2 g_loss : 1.601452
+Epoch is 172
+Number of batches 3
+batch 0 d_loss : 0.490930
+batch 0 g_loss : 1.200338
+batch 1 d_loss : 0.365445
+batch 1 g_loss : 1.085331
+batch 2 d_loss : 0.458058
+batch 2 g_loss : 1.277284
+Epoch is 173
+Number of batches 3
+batch 0 d_loss : 0.563547
+batch 0 g_loss : 1.458655
+batch 1 d_loss : 0.455652
+batch 1 g_loss : 1.705879
+batch 2 d_loss : 0.473005
+batch 2 g_loss : 1.413411
+Epoch is 174
+Number of batches 3
+batch 0 d_loss : 0.435745
+batch 0 g_loss : 1.087736
+batch 1 d_loss : 0.440642
+batch 1 g_loss : 1.245642
+batch 2 d_loss : 0.557339
+batch 2 g_loss : 2.053314
+Epoch is 175
+Number of batches 3
+batch 0 d_loss : 0.572141
+batch 0 g_loss : 1.481318
+batch 1 d_loss : 0.283997
+batch 1 g_loss : 1.173581
+batch 2 d_loss : 0.433268
+batch 2 g_loss : 1.162601
+Epoch is 176
+Number of batches 3
+batch 0 d_loss : 0.397860
+batch 0 g_loss : 0.976687
+batch 1 d_loss : 0.437915
+batch 1 g_loss : 1.388992
+batch 2 d_loss : 0.422406
+batch 2 g_loss : 1.200357
+Epoch is 177
+Number of batches 3
+batch 0 d_loss : 0.471515
+batch 0 g_loss : 1.275432
+batch 1 d_loss : 0.391845
+batch 1 g_loss : 1.953549
+batch 2 d_loss : 0.489610
+batch 2 g_loss : 1.365443
+Epoch is 178
+Number of batches 3
+batch 0 d_loss : 0.595678
+batch 0 g_loss : 1.431721
+batch 1 d_loss : 0.488741
+batch 1 g_loss : 1.991762
+batch 2 d_loss : 0.499981
+batch 2 g_loss : 1.053432
+Epoch is 179
+Number of batches 3
+batch 0 d_loss : 0.461864
+batch 0 g_loss : 0.885191
+batch 1 d_loss : 0.382509
+batch 1 g_loss : 1.453180
+batch 2 d_loss : 0.449007
+batch 2 g_loss : 1.244695
+Epoch is 180
+Number of batches 3
+batch 0 d_loss : 0.490263
+batch 0 g_loss : 1.013738
+batch 1 d_loss : 0.468293
+batch 1 g_loss : 1.904970
+batch 2 d_loss : 0.510164
+batch 2 g_loss : 1.213451
+Epoch is 181
+Number of batches 3
+batch 0 d_loss : 0.491868
+batch 0 g_loss : 1.349268
+batch 1 d_loss : 0.387326
+batch 1 g_loss : 1.553880
+batch 2 d_loss : 0.496297
+batch 2 g_loss : 1.501697
+Epoch is 182
+Number of batches 3
+batch 0 d_loss : 0.568714
+batch 0 g_loss : 1.411696
+batch 1 d_loss : 0.414294
+batch 1 g_loss : 1.431398
+batch 2 d_loss : 0.468427
+batch 2 g_loss : 1.243632
+Epoch is 183
+Number of batches 3
+batch 0 d_loss : 0.499278
+batch 0 g_loss : 0.871854
+batch 1 d_loss : 0.358427
+batch 1 g_loss : 1.325305
+batch 2 d_loss : 0.411836
+batch 2 g_loss : 1.133002
+Epoch is 184
+Number of batches 3
+batch 0 d_loss : 0.528281
+batch 0 g_loss : 1.978842
+batch 1 d_loss : 0.487279
+batch 1 g_loss : 1.966307
+batch 2 d_loss : 0.487530
+batch 2 g_loss : 1.356700
+Epoch is 185
+Number of batches 3
+batch 0 d_loss : 0.594043
+batch 0 g_loss : 1.341308
+batch 1 d_loss : 0.438348
+batch 1 g_loss : 1.413273
+batch 2 d_loss : 0.486918
+batch 2 g_loss : 1.003702
+Epoch is 186
+Number of batches 3
+batch 0 d_loss : 0.393338
+batch 0 g_loss : 1.040040
+batch 1 d_loss : 0.503534
+batch 1 g_loss : 1.852473
+batch 2 d_loss : 0.443109
+batch 2 g_loss : 0.682528
+Epoch is 187
+Number of batches 3
+batch 0 d_loss : 0.491305
+batch 0 g_loss : 1.438968
+batch 1 d_loss : 0.338720
+batch 1 g_loss : 1.757684
+batch 2 d_loss : 0.456521
+batch 2 g_loss : 1.522905
+Epoch is 188
+Number of batches 3
+batch 0 d_loss : 0.416696
+batch 0 g_loss : 1.005415
+batch 1 d_loss : 0.372181
+batch 1 g_loss : 1.506179
+batch 2 d_loss : 0.460088
+batch 2 g_loss : 0.967086
+Epoch is 189
+Number of batches 3
+batch 0 d_loss : 0.435522
+batch 0 g_loss : 1.456141
+batch 1 d_loss : 0.331058
+batch 1 g_loss : 1.119933
+batch 2 d_loss : 0.440166
+batch 2 g_loss : 1.633160
+Epoch is 190
+Number of batches 3
+batch 0 d_loss : 0.489576
+batch 0 g_loss : 1.487817
+batch 1 d_loss : 0.356054
+batch 1 g_loss : 1.392126
+batch 2 d_loss : 0.484264
+batch 2 g_loss : 1.401264
+Epoch is 191
+Number of batches 3
+batch 0 d_loss : 0.364256
+batch 0 g_loss : 0.857282
+batch 1 d_loss : 0.521494
+batch 1 g_loss : 1.715719
+batch 2 d_loss : 0.488630
+batch 2 g_loss : 1.202061
+Epoch is 192
+Number of batches 3
+batch 0 d_loss : 0.494675
+batch 0 g_loss : 1.722496
+batch 1 d_loss : 0.303800
+batch 1 g_loss : 1.367020
+batch 2 d_loss : 0.472551
+batch 2 g_loss : 1.471466
+Epoch is 193
+Number of batches 3
+batch 0 d_loss : 0.428558
+batch 0 g_loss : 0.986642
+batch 1 d_loss : 0.349590
+batch 1 g_loss : 1.668673
+batch 2 d_loss : 0.387009
+batch 2 g_loss : 1.201488
+Epoch is 194
+Number of batches 3
+batch 0 d_loss : 0.532288
+batch 0 g_loss : 1.444706
+batch 1 d_loss : 0.410895
+batch 1 g_loss : 1.442745
+batch 2 d_loss : 0.537160
+batch 2 g_loss : 1.477707
+Epoch is 195
+Number of batches 3
+batch 0 d_loss : 0.398586
+batch 0 g_loss : 0.764550
+batch 1 d_loss : 0.561963
+batch 1 g_loss : 1.967576
+batch 2 d_loss : 0.515674
+batch 2 g_loss : 1.190697
+Epoch is 196
+Number of batches 3
+batch 0 d_loss : 0.424449
+batch 0 g_loss : 1.150930
+batch 1 d_loss : 0.338405
+batch 1 g_loss : 1.282498
+batch 2 d_loss : 0.591461
+batch 2 g_loss : 1.515023
+Epoch is 197
+Number of batches 3
+batch 0 d_loss : 0.620122
+batch 0 g_loss : 1.345497
+batch 1 d_loss : 0.379039
+batch 1 g_loss : 1.478896
+batch 2 d_loss : 0.536255
+batch 2 g_loss : 1.170120
+Epoch is 198
+Number of batches 3
+batch 0 d_loss : 0.565448
+batch 0 g_loss : 1.397068
+batch 1 d_loss : 0.432741
+batch 1 g_loss : 1.462419
+batch 2 d_loss : 0.480055
+batch 2 g_loss : 1.076016
+Epoch is 199
+Number of batches 3
+batch 0 d_loss : 0.536622
+batch 0 g_loss : 1.266636
+batch 1 d_loss : 0.383644
+batch 1 g_loss : 1.480171
+batch 2 d_loss : 0.472352
+batch 2 g_loss : 1.118296
+Epoch is 200
+Number of batches 3
+batch 0 d_loss : 0.426277
+batch 0 g_loss : 1.307042
+batch 1 d_loss : 0.417571
+batch 1 g_loss : 1.606753
+batch 2 d_loss : 0.466813
+batch 2 g_loss : 1.475964
+Epoch is 201
+Number of batches 3
+batch 0 d_loss : 0.446113
+batch 0 g_loss : 1.184847
+batch 1 d_loss : 0.438779
+batch 1 g_loss : 1.733361
+batch 2 d_loss : 0.504751
+batch 2 g_loss : 1.506210
+Epoch is 202
+Number of batches 3
+batch 0 d_loss : 0.411458
+batch 0 g_loss : 0.958110
+batch 1 d_loss : 0.341596
+batch 1 g_loss : 1.528623
+batch 2 d_loss : 0.388955
+batch 2 g_loss : 1.360847
+Epoch is 203
+Number of batches 3
+batch 0 d_loss : 0.415858
+batch 0 g_loss : 1.005509
+batch 1 d_loss : 0.336417
+batch 1 g_loss : 1.243131
+batch 2 d_loss : 0.451111
+batch 2 g_loss : 1.147655
+Epoch is 204
+Number of batches 3
+batch 0 d_loss : 0.387262
+batch 0 g_loss : 1.107142
+batch 1 d_loss : 0.415588
+batch 1 g_loss : 1.916867
+batch 2 d_loss : 0.415763
+batch 2 g_loss : 0.876352
+Epoch is 205
+Number of batches 3
+batch 0 d_loss : 0.429248
+batch 0 g_loss : 1.331770
+batch 1 d_loss : 0.221493
+batch 1 g_loss : 1.058789
+batch 2 d_loss : 0.522736
+batch 2 g_loss : 1.598033
+Epoch is 206
+Number of batches 3
+batch 0 d_loss : 0.592849
+batch 0 g_loss : 1.323310
+batch 1 d_loss : 0.401493
+batch 1 g_loss : 1.998985
+batch 2 d_loss : 0.378567
+batch 2 g_loss : 0.763813
+Epoch is 207
+Number of batches 3
+batch 0 d_loss : 0.505984
+batch 0 g_loss : 1.529760
+batch 1 d_loss : 0.382816
+batch 1 g_loss : 1.677423
+batch 2 d_loss : 0.489084
+batch 2 g_loss : 1.074014
+Epoch is 208
+Number of batches 3
+batch 0 d_loss : 0.363280
+batch 0 g_loss : 0.882391
+batch 1 d_loss : 0.411546
+batch 1 g_loss : 1.846949
+batch 2 d_loss : 0.451822
+batch 2 g_loss : 1.225690
+Epoch is 209
+Number of batches 3
+batch 0 d_loss : 0.532184
+batch 0 g_loss : 1.333629
+batch 1 d_loss : 0.343978
+batch 1 g_loss : 1.346786
+batch 2 d_loss : 0.448207
+batch 2 g_loss : 1.522787
+Epoch is 210
+Number of batches 3
+batch 0 d_loss : 0.392286
+batch 0 g_loss : 1.480732
+batch 1 d_loss : 0.437316
+batch 1 g_loss : 2.335949
+batch 2 d_loss : 0.489600
+batch 2 g_loss : 1.101913
+Epoch is 211
+Number of batches 3
+batch 0 d_loss : 0.503815
+batch 0 g_loss : 1.221967
+batch 1 d_loss : 0.440001
+batch 1 g_loss : 1.463453
+batch 2 d_loss : 0.454293
+batch 2 g_loss : 0.935901
+Epoch is 212
+Number of batches 3
+batch 0 d_loss : 0.421282
+batch 0 g_loss : 1.007947
+batch 1 d_loss : 0.426699
+batch 1 g_loss : 1.767009
+batch 2 d_loss : 0.429876
+batch 2 g_loss : 1.248752
+Epoch is 213
+Number of batches 3
+batch 0 d_loss : 0.519410
+batch 0 g_loss : 1.696312
+batch 1 d_loss : 0.339528
+batch 1 g_loss : 1.869397
+batch 2 d_loss : 0.426881
+batch 2 g_loss : 1.386279
+Epoch is 214
+Number of batches 3
+batch 0 d_loss : 0.426029
+batch 0 g_loss : 1.298097
+batch 1 d_loss : 0.323658
+batch 1 g_loss : 1.614943
+batch 2 d_loss : 0.414748
+batch 2 g_loss : 1.252132
+Epoch is 215
+Number of batches 3
+batch 0 d_loss : 0.451198
+batch 0 g_loss : 1.436345
+batch 1 d_loss : 0.324234
+batch 1 g_loss : 1.287427
+batch 2 d_loss : 0.406822
+batch 2 g_loss : 1.100652
+Epoch is 216
+Number of batches 3
+batch 0 d_loss : 0.463662
+batch 0 g_loss : 1.455101
+batch 1 d_loss : 0.342523
+batch 1 g_loss : 1.577488
+batch 2 d_loss : 0.362507
+batch 2 g_loss : 1.035533
+Epoch is 217
+Number of batches 3
+batch 0 d_loss : 0.403738
+batch 0 g_loss : 1.695368
+batch 1 d_loss : 0.410911
+batch 1 g_loss : 2.285464
+batch 2 d_loss : 0.486165
+batch 2 g_loss : 1.592046
+Epoch is 218
+Number of batches 3
+batch 0 d_loss : 0.468518
+batch 0 g_loss : 1.474180
+batch 1 d_loss : 0.337930
+batch 1 g_loss : 1.859479
+batch 2 d_loss : 0.388319
+batch 2 g_loss : 1.278274
+Epoch is 219
+Number of batches 3
+batch 0 d_loss : 0.530901
+batch 0 g_loss : 1.686719
+batch 1 d_loss : 0.301632
+batch 1 g_loss : 1.857581
+batch 2 d_loss : 0.338152
+batch 2 g_loss : 1.027651
+Epoch is 220
+Number of batches 3
+batch 0 d_loss : 0.400727
+batch 0 g_loss : 1.207925
+batch 1 d_loss : 0.285105
+batch 1 g_loss : 1.510233
+batch 2 d_loss : 0.379686
+batch 2 g_loss : 1.576456
+Epoch is 221
+Number of batches 3
+batch 0 d_loss : 0.461028
+batch 0 g_loss : 1.467903
+batch 1 d_loss : 0.340365
+batch 1 g_loss : 2.033124
+batch 2 d_loss : 0.462251
+batch 2 g_loss : 1.219433
+Epoch is 222
+Number of batches 3
+batch 0 d_loss : 0.401514
+batch 0 g_loss : 1.617135
+batch 1 d_loss : 0.373518
+batch 1 g_loss : 1.667867
+batch 2 d_loss : 0.378012
+batch 2 g_loss : 1.157529
+Epoch is 223
+Number of batches 3
+batch 0 d_loss : 0.467546
+batch 0 g_loss : 1.721236
+batch 1 d_loss : 0.404914
+batch 1 g_loss : 1.926968
+batch 2 d_loss : 0.471028
+batch 2 g_loss : 1.494000
+Epoch is 224
+Number of batches 3
+batch 0 d_loss : 0.355986
+batch 0 g_loss : 1.023758
+batch 1 d_loss : 0.269805
+batch 1 g_loss : 1.924490
+batch 2 d_loss : 0.305459
+batch 2 g_loss : 1.368339
+Epoch is 225
+Number of batches 3
+batch 0 d_loss : 0.308241
+batch 0 g_loss : 1.284442
+batch 1 d_loss : 0.317151
+batch 1 g_loss : 1.491541
+batch 2 d_loss : 0.350461
+batch 2 g_loss : 1.502517
+Epoch is 226
+Number of batches 3
+batch 0 d_loss : 0.476334
+batch 0 g_loss : 1.577151
+batch 1 d_loss : 0.297535
+batch 1 g_loss : 1.834550
+batch 2 d_loss : 0.303980
+batch 2 g_loss : 1.532801
+Epoch is 227
+Number of batches 3
+batch 0 d_loss : 0.371679
+batch 0 g_loss : 1.159257
+batch 1 d_loss : 0.330252
+batch 1 g_loss : 1.786461
+batch 2 d_loss : 0.415728
+batch 2 g_loss : 1.483153
+Epoch is 228
+Number of batches 3
+batch 0 d_loss : 0.450886
+batch 0 g_loss : 1.204227
+batch 1 d_loss : 0.298407
+batch 1 g_loss : 1.807093
+batch 2 d_loss : 0.398923
+batch 2 g_loss : 1.458964
+Epoch is 229
+Number of batches 3
+batch 0 d_loss : 0.415266
+batch 0 g_loss : 1.573360
+batch 1 d_loss : 0.292499
+batch 1 g_loss : 1.359955
+batch 2 d_loss : 0.374767
+batch 2 g_loss : 1.293229
+Epoch is 230
+Number of batches 3
+batch 0 d_loss : 0.405542
+batch 0 g_loss : 1.226481
+batch 1 d_loss : 0.314820
+batch 1 g_loss : 1.902783
+batch 2 d_loss : 0.361685
+batch 2 g_loss : 1.102991
+Epoch is 231
+Number of batches 3
+batch 0 d_loss : 0.363079
+batch 0 g_loss : 1.526401
+batch 1 d_loss : 0.313910
+batch 1 g_loss : 1.657458
+batch 2 d_loss : 0.398510
+batch 2 g_loss : 1.297026
+Epoch is 232
+Number of batches 3
+batch 0 d_loss : 0.325015
+batch 0 g_loss : 1.306455
+batch 1 d_loss : 0.468908
+batch 1 g_loss : 2.546602
+batch 2 d_loss : 0.451614
+batch 2 g_loss : 1.523889
+Epoch is 233
+Number of batches 3
+batch 0 d_loss : 0.291526
+batch 0 g_loss : 1.042095
+batch 1 d_loss : 0.271088
+batch 1 g_loss : 1.332663
+batch 2 d_loss : 0.357102
+batch 2 g_loss : 1.082016
+Epoch is 234
+Number of batches 3
+batch 0 d_loss : 0.398287
+batch 0 g_loss : 1.733231
+batch 1 d_loss : 0.269206
+batch 1 g_loss : 1.919388
+batch 2 d_loss : 0.441207
+batch 2 g_loss : 1.840153
+Epoch is 235
+Number of batches 3
+batch 0 d_loss : 0.346212
+batch 0 g_loss : 1.281365
+batch 1 d_loss : 0.328726
+batch 1 g_loss : 2.031403
+batch 2 d_loss : 0.325148
+batch 2 g_loss : 1.555796
+Epoch is 236
+Number of batches 3
+batch 0 d_loss : 0.414335
+batch 0 g_loss : 1.672510
+batch 1 d_loss : 0.280076
+batch 1 g_loss : 1.503325
+batch 2 d_loss : 0.346747
+batch 2 g_loss : 1.483127
+Epoch is 237
+Number of batches 3
+batch 0 d_loss : 0.318292
+batch 0 g_loss : 1.328692
+batch 1 d_loss : 0.257172
+batch 1 g_loss : 1.762812
+batch 2 d_loss : 0.365537
+batch 2 g_loss : 1.871324
+Epoch is 238
+Number of batches 3
+batch 0 d_loss : 0.354498
+batch 0 g_loss : 1.256528
+batch 1 d_loss : 0.280295
+batch 1 g_loss : 2.066390
+batch 2 d_loss : 0.387194
+batch 2 g_loss : 1.547739
+Epoch is 239
+Number of batches 3
+batch 0 d_loss : 0.368149
+batch 0 g_loss : 1.603279
+batch 1 d_loss : 0.343577
+batch 1 g_loss : 1.956486
+batch 2 d_loss : 0.365880
+batch 2 g_loss : 1.010926
+Epoch is 240
+Number of batches 3
+batch 0 d_loss : 0.294195
+batch 0 g_loss : 1.387849
+batch 1 d_loss : 0.386851
+batch 1 g_loss : 2.178095
+batch 2 d_loss : 0.444835
+batch 2 g_loss : 1.713157
+Epoch is 241
+Number of batches 3
+batch 0 d_loss : 0.317495
+batch 0 g_loss : 1.076447
+batch 1 d_loss : 0.364788
+batch 1 g_loss : 2.607717
+batch 2 d_loss : 0.440930
+batch 2 g_loss : 1.799489
+Epoch is 242
+Number of batches 3
+batch 0 d_loss : 0.360729
+batch 0 g_loss : 1.440505
+batch 1 d_loss : 0.278053
+batch 1 g_loss : 1.477315
+batch 2 d_loss : 0.382295
+batch 2 g_loss : 1.871187
+Epoch is 243
+Number of batches 3
+batch 0 d_loss : 0.307255
+batch 0 g_loss : 1.137721
+batch 1 d_loss : 0.372060
+batch 1 g_loss : 2.441194
+batch 2 d_loss : 0.364479
+batch 2 g_loss : 1.352853
+Epoch is 244
+Number of batches 3
+batch 0 d_loss : 0.290834
+batch 0 g_loss : 1.054747
+batch 1 d_loss : 0.465296
+batch 1 g_loss : 2.426471
+batch 2 d_loss : 0.397787
+batch 2 g_loss : 1.208606
+Epoch is 245
+Number of batches 3
+batch 0 d_loss : 0.385782
+batch 0 g_loss : 1.854025
+batch 1 d_loss : 0.264244
+batch 1 g_loss : 2.162734
+batch 2 d_loss : 0.360641
+batch 2 g_loss : 1.903622
+Epoch is 246
+Number of batches 3
+batch 0 d_loss : 0.342354
+batch 0 g_loss : 1.389452
+batch 1 d_loss : 0.222062
+batch 1 g_loss : 1.477952
+batch 2 d_loss : 0.385901
+batch 2 g_loss : 1.873224
+Epoch is 247
+Number of batches 3
+batch 0 d_loss : 0.393423
+batch 0 g_loss : 1.737990
+batch 1 d_loss : 0.202940
+batch 1 g_loss : 1.311610
+batch 2 d_loss : 0.337945
+batch 2 g_loss : 1.988961
+Epoch is 248
+Number of batches 3
+batch 0 d_loss : 0.265519
+batch 0 g_loss : 1.067930
+batch 1 d_loss : 0.332319
+batch 1 g_loss : 2.469806
+batch 2 d_loss : 0.361838
+batch 2 g_loss : 1.682193
+Epoch is 249
+Number of batches 3
+batch 0 d_loss : 0.339632
+batch 0 g_loss : 1.399553
+batch 1 d_loss : 0.202952
+batch 1 g_loss : 1.254323
+batch 2 d_loss : 0.273814
+batch 2 g_loss : 1.680197
+Epoch is 250
+Number of batches 3
+batch 0 d_loss : 0.302140
+batch 0 g_loss : 1.424011
+batch 1 d_loss : 0.338701
+batch 1 g_loss : 2.844210
+batch 2 d_loss : 0.401208
+batch 2 g_loss : 1.380776
+Epoch is 251
+Number of batches 3
+batch 0 d_loss : 0.309913
+batch 0 g_loss : 1.870786
+batch 1 d_loss : 0.354121
+batch 1 g_loss : 2.418195
+batch 2 d_loss : 0.376043
+batch 2 g_loss : 1.469855
+Epoch is 252
+Number of batches 3
+batch 0 d_loss : 0.282771
+batch 0 g_loss : 1.646132
+batch 1 d_loss : 0.348188
+batch 1 g_loss : 2.144653
+batch 2 d_loss : 0.423090
+batch 2 g_loss : 1.855887
+Epoch is 253
+Number of batches 3
+batch 0 d_loss : 0.289173
+batch 0 g_loss : 1.265415
+batch 1 d_loss : 0.229367
+batch 1 g_loss : 2.062251
+batch 2 d_loss : 0.318833
+batch 2 g_loss : 1.710356
+Epoch is 254
+Number of batches 3
+batch 0 d_loss : 0.362404
+batch 0 g_loss : 1.890290
+batch 1 d_loss : 0.295258
+batch 1 g_loss : 1.939509
+batch 2 d_loss : 0.364796
+batch 2 g_loss : 1.738288
+Epoch is 255
+Number of batches 3
+batch 0 d_loss : 0.274352
+batch 0 g_loss : 1.365987
+batch 1 d_loss : 0.239572
+batch 1 g_loss : 1.696922
+batch 2 d_loss : 0.335731
+batch 2 g_loss : 1.982926
+Epoch is 256
+Number of batches 3
+batch 0 d_loss : 0.288732
+batch 0 g_loss : 1.698796
+batch 1 d_loss : 0.259435
+batch 1 g_loss : 2.298572
+batch 2 d_loss : 0.299510
+batch 2 g_loss : 1.620382
+Epoch is 257
+Number of batches 3
+batch 0 d_loss : 0.323652
+batch 0 g_loss : 1.752661
+batch 1 d_loss : 0.270712
+batch 1 g_loss : 1.746996
+batch 2 d_loss : 0.269530
+batch 2 g_loss : 1.452616
+Epoch is 258
+Number of batches 3
+batch 0 d_loss : 0.301897
+batch 0 g_loss : 1.512522
+batch 1 d_loss : 0.256115
+batch 1 g_loss : 1.967687
+batch 2 d_loss : 0.279919
+batch 2 g_loss : 1.643850
+Epoch is 259
+Number of batches 3
+batch 0 d_loss : 0.317946
+batch 0 g_loss : 1.562500
+batch 1 d_loss : 0.303747
+batch 1 g_loss : 2.013969
+batch 2 d_loss : 0.347679
+batch 2 g_loss : 1.624732
+Epoch is 260
+Number of batches 3
+batch 0 d_loss : 0.307185
+batch 0 g_loss : 1.456307
+batch 1 d_loss : 0.237691
+batch 1 g_loss : 1.942135
+batch 2 d_loss : 0.303636
+batch 2 g_loss : 1.800438
+Epoch is 261
+Number of batches 3
+batch 0 d_loss : 0.295888
+batch 0 g_loss : 1.675980
+batch 1 d_loss : 0.220438
+batch 1 g_loss : 2.129061
+batch 2 d_loss : 0.297458
+batch 2 g_loss : 1.468564
+Epoch is 262
+Number of batches 3
+batch 0 d_loss : 0.293706
+batch 0 g_loss : 1.505979
+batch 1 d_loss : 0.197164
+batch 1 g_loss : 1.936052
+batch 2 d_loss : 0.292737
+batch 2 g_loss : 1.628742
+Epoch is 263
+Number of batches 3
+batch 0 d_loss : 0.238691
+batch 0 g_loss : 1.521970
+batch 1 d_loss : 0.189515
+batch 1 g_loss : 1.878132
+batch 2 d_loss : 0.327942
+batch 2 g_loss : 1.896485
+Epoch is 264
+Number of batches 3
+batch 0 d_loss : 0.294709
+batch 0 g_loss : 1.782539
+batch 1 d_loss : 0.172507
+batch 1 g_loss : 1.670289
+batch 2 d_loss : 0.248175
+batch 2 g_loss : 1.334773
+Epoch is 265
+Number of batches 3
+batch 0 d_loss : 0.281104
+batch 0 g_loss : 1.957142
+batch 1 d_loss : 0.192227
+batch 1 g_loss : 2.070492
+batch 2 d_loss : 0.291176
+batch 2 g_loss : 1.743209
+Epoch is 266
+Number of batches 3
+batch 0 d_loss : 0.239739
+batch 0 g_loss : 1.380863
+batch 1 d_loss : 0.199353
+batch 1 g_loss : 1.938186
+batch 2 d_loss : 0.254487
+batch 2 g_loss : 2.043405
+Epoch is 267
+Number of batches 3
+batch 0 d_loss : 0.287618
+batch 0 g_loss : 1.837301
+batch 1 d_loss : 0.253185
+batch 1 g_loss : 2.558393
+batch 2 d_loss : 0.331713
+batch 2 g_loss : 1.766260
+Epoch is 268
+Number of batches 3
+batch 0 d_loss : 0.215493
+batch 0 g_loss : 1.160071
+batch 1 d_loss : 0.346509
+batch 1 g_loss : 2.720214
+batch 2 d_loss : 0.251251
+batch 2 g_loss : 1.778020
+Epoch is 269
+Number of batches 3
+batch 0 d_loss : 0.264902
+batch 0 g_loss : 1.801732
+batch 1 d_loss : 0.194359
+batch 1 g_loss : 2.182559
+batch 2 d_loss : 0.253806
+batch 2 g_loss : 1.834949
+Epoch is 270
+Number of batches 3
+batch 0 d_loss : 0.211689
+batch 0 g_loss : 1.179269
+batch 1 d_loss : 0.193203
+batch 1 g_loss : 2.157197
+batch 2 d_loss : 0.215069
+batch 2 g_loss : 1.319320
+Epoch is 271
+Number of batches 3
+batch 0 d_loss : 0.299183
+batch 0 g_loss : 2.500671
+batch 1 d_loss : 0.196833
+batch 1 g_loss : 2.639856
+batch 2 d_loss : 0.253873
+batch 2 g_loss : 1.709151
+Epoch is 272
+Number of batches 3
+batch 0 d_loss : 0.274318
+batch 0 g_loss : 1.624250
+batch 1 d_loss : 0.215933
+batch 1 g_loss : 2.096686
+batch 2 d_loss : 0.328919
+batch 2 g_loss : 1.762226
+Epoch is 273
+Number of batches 3
+batch 0 d_loss : 0.274823
+batch 0 g_loss : 1.783194
+batch 1 d_loss : 0.194403
+batch 1 g_loss : 1.991003
+batch 2 d_loss : 0.239740
+batch 2 g_loss : 1.562400
+Epoch is 274
+Number of batches 3
+batch 0 d_loss : 0.155243
+batch 0 g_loss : 1.280508
+batch 1 d_loss : 0.261118
+batch 1 g_loss : 2.647228
+batch 2 d_loss : 0.258362
+batch 2 g_loss : 1.677204
+Epoch is 275
+Number of batches 3
+batch 0 d_loss : 0.224857
+batch 0 g_loss : 1.734019
+batch 1 d_loss : 0.180164
+batch 1 g_loss : 2.475523
+batch 2 d_loss : 0.218076
+batch 2 g_loss : 1.886006
+Epoch is 276
+Number of batches 3
+batch 0 d_loss : 0.222931
+batch 0 g_loss : 1.635129
+batch 1 d_loss : 0.152303
+batch 1 g_loss : 2.089987
+batch 2 d_loss : 0.219502
+batch 2 g_loss : 2.467148
+Epoch is 277
+Number of batches 3
+batch 0 d_loss : 0.211385
+batch 0 g_loss : 1.575199
+batch 1 d_loss : 0.207168
+batch 1 g_loss : 3.010391
+batch 2 d_loss : 0.323561
+batch 2 g_loss : 2.161448
+Epoch is 278
+Number of batches 3
+batch 0 d_loss : 0.285320
+batch 0 g_loss : 1.637453
+batch 1 d_loss : 0.183775
+batch 1 g_loss : 2.326622
+batch 2 d_loss : 0.209703
+batch 2 g_loss : 1.727247
+Epoch is 279
+Number of batches 3
+batch 0 d_loss : 0.208143
+batch 0 g_loss : 1.334617
+batch 1 d_loss : 0.222967
+batch 1 g_loss : 2.438056
+batch 2 d_loss : 0.264003
+batch 2 g_loss : 2.699798
+Epoch is 280
+Number of batches 3
+batch 0 d_loss : 0.262920
+batch 0 g_loss : 1.718225
+batch 1 d_loss : 0.206632
+batch 1 g_loss : 2.299375
+batch 2 d_loss : 0.209820
+batch 2 g_loss : 1.728902
+Epoch is 281
+Number of batches 3
+batch 0 d_loss : 0.252189
+batch 0 g_loss : 2.087144
+batch 1 d_loss : 0.192461
+batch 1 g_loss : 2.443750
+batch 2 d_loss : 0.268267
+batch 2 g_loss : 2.335314
+Epoch is 282
+Number of batches 3
+batch 0 d_loss : 0.187891
+batch 0 g_loss : 2.012257
+batch 1 d_loss : 0.186650
+batch 1 g_loss : 2.094887
+batch 2 d_loss : 0.248039
+batch 2 g_loss : 1.927411
+Epoch is 283
+Number of batches 3
+batch 0 d_loss : 0.204017
+batch 0 g_loss : 1.556917
+batch 1 d_loss : 0.206184
+batch 1 g_loss : 2.082731
+batch 2 d_loss : 0.212756
+batch 2 g_loss : 1.706558
+Epoch is 284
+Number of batches 3
+batch 0 d_loss : 0.191927
+batch 0 g_loss : 1.757983
+batch 1 d_loss : 0.205678
+batch 1 g_loss : 2.397268
+batch 2 d_loss : 0.197161
+batch 2 g_loss : 1.904889
+Epoch is 285
+Number of batches 3
+batch 0 d_loss : 0.224530
+batch 0 g_loss : 2.466998
+batch 1 d_loss : 0.183260
+batch 1 g_loss : 2.446413
+batch 2 d_loss : 0.219744
+batch 2 g_loss : 1.767521
+Epoch is 286
+Number of batches 3
+batch 0 d_loss : 0.242577
+batch 0 g_loss : 2.243308
+batch 1 d_loss : 0.317324
+batch 1 g_loss : 3.331468
+batch 2 d_loss : 0.419521
+batch 2 g_loss : 2.196582
+Epoch is 287
+Number of batches 3
+batch 0 d_loss : 0.269131
+batch 0 g_loss : 2.404778
+batch 1 d_loss : 0.153402
+batch 1 g_loss : 2.144604
+batch 2 d_loss : 0.189286
+batch 2 g_loss : 1.773295
+Epoch is 288
+Number of batches 3
+batch 0 d_loss : 0.182564
+batch 0 g_loss : 1.913870
+batch 1 d_loss : 0.215182
+batch 1 g_loss : 2.370658
+batch 2 d_loss : 0.237114
+batch 2 g_loss : 1.811773
+Epoch is 289
+Number of batches 3
+batch 0 d_loss : 0.220127
+batch 0 g_loss : 1.947809
+batch 1 d_loss : 0.139460
+batch 1 g_loss : 2.079258
+batch 2 d_loss : 0.196383
+batch 2 g_loss : 1.943268
+Epoch is 290
+Number of batches 3
+batch 0 d_loss : 0.274275
+batch 0 g_loss : 2.806507
+batch 1 d_loss : 0.176644
+batch 1 g_loss : 2.739218
+batch 2 d_loss : 0.208560
+batch 2 g_loss : 1.412774
+Epoch is 291
+Number of batches 3
+batch 0 d_loss : 0.222144
+batch 0 g_loss : 1.965272
+batch 1 d_loss : 0.172492
+batch 1 g_loss : 2.493767
+batch 2 d_loss : 0.171354
+batch 2 g_loss : 1.603059
+Epoch is 292
+Number of batches 3
+batch 0 d_loss : 0.197927
+batch 0 g_loss : 1.942101
+batch 1 d_loss : 0.222878
+batch 1 g_loss : 3.309915
+batch 2 d_loss : 0.298640
+batch 2 g_loss : 2.246185
+Epoch is 293
+Number of batches 3
+batch 0 d_loss : 0.204589
+batch 0 g_loss : 1.514802
+batch 1 d_loss : 0.112638
+batch 1 g_loss : 2.037922
+batch 2 d_loss : 0.213556
+batch 2 g_loss : 2.150207
+Epoch is 294
+Number of batches 3
+batch 0 d_loss : 0.207561
+batch 0 g_loss : 2.589029
+batch 1 d_loss : 0.192177
+batch 1 g_loss : 2.822907
+batch 2 d_loss : 0.244229
+batch 2 g_loss : 1.786503
+Epoch is 295
+Number of batches 3
+batch 0 d_loss : 0.178106
+batch 0 g_loss : 1.891255
+batch 1 d_loss : 0.228285
+batch 1 g_loss : 3.314587
+batch 2 d_loss : 0.272958
+batch 2 g_loss : 1.967073
+Epoch is 296
+Number of batches 3
+batch 0 d_loss : 0.222930
+batch 0 g_loss : 1.838079
+batch 1 d_loss : 0.142067
+batch 1 g_loss : 2.417788
+batch 2 d_loss : 0.244078
+batch 2 g_loss : 2.213605
+Epoch is 297
+Number of batches 3
+batch 0 d_loss : 0.293415
+batch 0 g_loss : 2.528626
+batch 1 d_loss : 0.155021
+batch 1 g_loss : 2.735184
+batch 2 d_loss : 0.216864
+batch 2 g_loss : 2.341107
+Epoch is 298
+Number of batches 3
+batch 0 d_loss : 0.242306
+batch 0 g_loss : 2.297182
+batch 1 d_loss : 0.136501
+batch 1 g_loss : 2.637394
+batch 2 d_loss : 0.237372
+batch 2 g_loss : 1.939090
+Epoch is 299
+Number of batches 3
+batch 0 d_loss : 0.158962
+batch 0 g_loss : 1.840977
+batch 1 d_loss : 0.249765
+batch 1 g_loss : 2.871240
+batch 2 d_loss : 0.236982
+batch 2 g_loss : 1.644311
+Epoch is 300
+Number of batches 3
+batch 0 d_loss : 0.156360
+batch 0 g_loss : 2.429879
+batch 1 d_loss : 0.148463
+batch 1 g_loss : 2.843039
+batch 2 d_loss : 0.205619
+batch 2 g_loss : 2.020374
+Epoch is 301
+Number of batches 3
+batch 0 d_loss : 0.145715
+batch 0 g_loss : 1.793967
+batch 1 d_loss : 0.190218
+batch 1 g_loss : 2.070925
+batch 2 d_loss : 0.179271
+batch 2 g_loss : 2.177727
+Epoch is 302
+Number of batches 3
+batch 0 d_loss : 0.218759
+batch 0 g_loss : 2.602401
+batch 1 d_loss : 0.107946
+batch 1 g_loss : 2.554579
+batch 2 d_loss : 0.154370
+batch 2 g_loss : 2.385540
+Epoch is 303
+Number of batches 3
+batch 0 d_loss : 0.176468
+batch 0 g_loss : 1.955981
+batch 1 d_loss : 0.108022
+batch 1 g_loss : 2.094602
+batch 2 d_loss : 0.197987
+batch 2 g_loss : 1.478661
+Epoch is 304
+Number of batches 3
+batch 0 d_loss : 0.209567
+batch 0 g_loss : 2.568138
+batch 1 d_loss : 0.103573
+batch 1 g_loss : 2.484437
+batch 2 d_loss : 0.161258
+batch 2 g_loss : 1.949432
+Epoch is 305
+Number of batches 3
+batch 0 d_loss : 0.225219
+batch 0 g_loss : 2.995663
+batch 1 d_loss : 0.112250
+batch 1 g_loss : 2.763702
+batch 2 d_loss : 0.173910
+batch 2 g_loss : 1.847164
+Epoch is 306
+Number of batches 3
+batch 0 d_loss : 0.293445
+batch 0 g_loss : 3.171299
+batch 1 d_loss : 0.124111
+batch 1 g_loss : 2.571689
+batch 2 d_loss : 0.212161
+batch 2 g_loss : 2.446815
+Epoch is 307
+Number of batches 3
+batch 0 d_loss : 0.175646
+batch 0 g_loss : 2.332137
+batch 1 d_loss : 0.089785
+batch 1 g_loss : 2.529588
+batch 2 d_loss : 0.166255
+batch 2 g_loss : 2.130543
+Epoch is 308
+Number of batches 3
+batch 0 d_loss : 0.116814
+batch 0 g_loss : 2.264580
+batch 1 d_loss : 0.148989
+batch 1 g_loss : 2.529831
+batch 2 d_loss : 0.273914
+batch 2 g_loss : 2.850209
+Epoch is 309
+Number of batches 3
+batch 0 d_loss : 0.207431
+batch 0 g_loss : 1.883909
+batch 1 d_loss : 0.103665
+batch 1 g_loss : 2.323429
+batch 2 d_loss : 0.206172
+batch 2 g_loss : 2.619802
+Epoch is 310
+Number of batches 3
+batch 0 d_loss : 0.131708
+batch 0 g_loss : 1.816601
+batch 1 d_loss : 0.146700
+batch 1 g_loss : 2.706722
+batch 2 d_loss : 0.190910
+batch 2 g_loss : 3.009243
+Epoch is 311
+Number of batches 3
+batch 0 d_loss : 0.128866
+batch 0 g_loss : 2.185674
+batch 1 d_loss : 0.123203
+batch 1 g_loss : 2.321770
+batch 2 d_loss : 0.160859
+batch 2 g_loss : 2.270741
+Epoch is 312
+Number of batches 3
+batch 0 d_loss : 0.158396
+batch 0 g_loss : 2.433840
+batch 1 d_loss : 0.202705
+batch 1 g_loss : 3.050842
+batch 2 d_loss : 0.207523
+batch 2 g_loss : 2.005632
+Epoch is 313
+Number of batches 3
+batch 0 d_loss : 0.189731
+batch 0 g_loss : 2.396135
+batch 1 d_loss : 0.119401
+batch 1 g_loss : 2.836397
+batch 2 d_loss : 0.184466
+batch 2 g_loss : 2.586730
+Epoch is 314
+Number of batches 3
+batch 0 d_loss : 0.171683
+batch 0 g_loss : 2.648767
+batch 1 d_loss : 0.108555
+batch 1 g_loss : 2.752739
+batch 2 d_loss : 0.161759
+batch 2 g_loss : 2.124191
+Epoch is 315
+Number of batches 3
+batch 0 d_loss : 0.185569
+batch 0 g_loss : 2.324851
+batch 1 d_loss : 0.120256
+batch 1 g_loss : 2.433143
+batch 2 d_loss : 0.182480
+batch 2 g_loss : 2.297744
+Epoch is 316
+Number of batches 3
+batch 0 d_loss : 0.162341
+batch 0 g_loss : 2.494555
+batch 1 d_loss : 0.100156
+batch 1 g_loss : 2.602854
+batch 2 d_loss : 0.166810
+batch 2 g_loss : 2.604205
+Epoch is 317
+Number of batches 3
+batch 0 d_loss : 0.146107
+batch 0 g_loss : 2.557203
+batch 1 d_loss : 0.134677
+batch 1 g_loss : 2.505622
+batch 2 d_loss : 0.134191
+batch 2 g_loss : 1.988444
+Epoch is 318
+Number of batches 3
+batch 0 d_loss : 0.165821
+batch 0 g_loss : 2.100277
+batch 1 d_loss : 0.089824
+batch 1 g_loss : 3.062081
+batch 2 d_loss : 0.180337
+batch 2 g_loss : 2.466681
+Epoch is 319
+Number of batches 3
+batch 0 d_loss : 0.134044
+batch 0 g_loss : 1.945210
+batch 1 d_loss : 0.198661
+batch 1 g_loss : 2.906910
+batch 2 d_loss : 0.178126
+batch 2 g_loss : 2.502698
+Epoch is 320
+Number of batches 3
+batch 0 d_loss : 0.193711
+batch 0 g_loss : 2.457832
+batch 1 d_loss : 0.122911
+batch 1 g_loss : 3.031182
+batch 2 d_loss : 0.229040
+batch 2 g_loss : 2.347283
+Epoch is 321
+Number of batches 3
+batch 0 d_loss : 0.152374
+batch 0 g_loss : 1.676255
+batch 1 d_loss : 0.112993
+batch 1 g_loss : 2.833089
+batch 2 d_loss : 0.104804
+batch 2 g_loss : 2.198312
+Epoch is 322
+Number of batches 3
+batch 0 d_loss : 0.136661
+batch 0 g_loss : 2.363006
+batch 1 d_loss : 0.069004
+batch 1 g_loss : 1.778474
+batch 2 d_loss : 0.167845
+batch 2 g_loss : 2.161070
+Epoch is 323
+Number of batches 3
+batch 0 d_loss : 0.121681
+batch 0 g_loss : 1.831919
+batch 1 d_loss : 0.113946
+batch 1 g_loss : 3.002328
+batch 2 d_loss : 0.154301
+batch 2 g_loss : 2.029796
+Epoch is 324
+Number of batches 3
+batch 0 d_loss : 0.179690
+batch 0 g_loss : 2.049365
+batch 1 d_loss : 0.092958
+batch 1 g_loss : 2.765696
+batch 2 d_loss : 0.180427
+batch 2 g_loss : 2.524291
+Epoch is 325
+Number of batches 3
+batch 0 d_loss : 0.237346
+batch 0 g_loss : 3.384364
+batch 1 d_loss : 0.086662
+batch 1 g_loss : 2.333565
+batch 2 d_loss : 0.177084
+batch 2 g_loss : 2.177155
+Epoch is 326
+Number of batches 3
+batch 0 d_loss : 0.159203
+batch 0 g_loss : 2.326131
+batch 1 d_loss : 0.145551
+batch 1 g_loss : 3.032834
+batch 2 d_loss : 0.218257
+batch 2 g_loss : 3.029119
+Epoch is 327
+Number of batches 3
+batch 0 d_loss : 0.187867
+batch 0 g_loss : 2.540494
+batch 1 d_loss : 0.133709
+batch 1 g_loss : 3.225145
+batch 2 d_loss : 0.225863
+batch 2 g_loss : 3.358354
+Epoch is 328
+Number of batches 3
+batch 0 d_loss : 0.140100
+batch 0 g_loss : 2.030262
+batch 1 d_loss : 0.149279
+batch 1 g_loss : 2.549626
+batch 2 d_loss : 0.194992
+batch 2 g_loss : 2.346670
+Epoch is 329
+Number of batches 3
+batch 0 d_loss : 0.171906
+batch 0 g_loss : 2.712868
+batch 1 d_loss : 0.144856
+batch 1 g_loss : 3.580966
+batch 2 d_loss : 0.223680
+batch 2 g_loss : 2.422981
+Epoch is 330
+Number of batches 3
+batch 0 d_loss : 0.143075
+batch 0 g_loss : 2.320750
+batch 1 d_loss : 0.107355
+batch 1 g_loss : 2.488722
+batch 2 d_loss : 0.179830
+batch 2 g_loss : 2.861364
+Epoch is 331
+Number of batches 3
+batch 0 d_loss : 0.133640
+batch 0 g_loss : 2.127259
+batch 1 d_loss : 0.195587
+batch 1 g_loss : 3.033519
+batch 2 d_loss : 0.237951
+batch 2 g_loss : 2.279193
+Epoch is 332
+Number of batches 3
+batch 0 d_loss : 0.157802
+batch 0 g_loss : 2.486279
+batch 1 d_loss : 0.181698
+batch 1 g_loss : 3.437250
+batch 2 d_loss : 0.235953
+batch 2 g_loss : 2.178459
+Epoch is 333
+Number of batches 3
+batch 0 d_loss : 0.135568
+batch 0 g_loss : 2.626959
+batch 1 d_loss : 0.201964
+batch 1 g_loss : 2.805502
+batch 2 d_loss : 0.136403
+batch 2 g_loss : 2.175040
+Epoch is 334
+Number of batches 3
+batch 0 d_loss : 0.199588
+batch 0 g_loss : 2.257464
+batch 1 d_loss : 0.149077
+batch 1 g_loss : 3.222322
+batch 2 d_loss : 0.197661
+batch 2 g_loss : 3.230414
+Epoch is 335
+Number of batches 3
+batch 0 d_loss : 0.178010
+batch 0 g_loss : 2.611623
+batch 1 d_loss : 0.096740
+batch 1 g_loss : 2.413156
+batch 2 d_loss : 0.183314
+batch 2 g_loss : 2.486854
+Epoch is 336
+Number of batches 3
+batch 0 d_loss : 0.222572
+batch 0 g_loss : 3.104442
+batch 1 d_loss : 0.098763
+batch 1 g_loss : 2.789517
+batch 2 d_loss : 0.154055
+batch 2 g_loss : 2.281729
+Epoch is 337
+Number of batches 3
+batch 0 d_loss : 0.296058
+batch 0 g_loss : 2.855143
+batch 1 d_loss : 0.105821
+batch 1 g_loss : 3.209314
+batch 2 d_loss : 0.172551
+batch 2 g_loss : 2.365734
+Epoch is 338
+Number of batches 3
+batch 0 d_loss : 0.221223
+batch 0 g_loss : 2.765119
+batch 1 d_loss : 0.110239
+batch 1 g_loss : 3.205165
+batch 2 d_loss : 0.199183
+batch 2 g_loss : 2.441606
+Epoch is 339
+Number of batches 3
+batch 0 d_loss : 0.203305
+batch 0 g_loss : 3.059714
+batch 1 d_loss : 0.106985
+batch 1 g_loss : 2.895236
+batch 2 d_loss : 0.146010
+batch 2 g_loss : 1.917197
+Epoch is 340
+Number of batches 3
+batch 0 d_loss : 0.131464
+batch 0 g_loss : 2.140169
+batch 1 d_loss : 0.098086
+batch 1 g_loss : 2.469838
+batch 2 d_loss : 0.151572
+batch 2 g_loss : 2.536942
+Epoch is 341
+Number of batches 3
+batch 0 d_loss : 0.130787
+batch 0 g_loss : 2.359136
+batch 1 d_loss : 0.181582
+batch 1 g_loss : 3.339289
+batch 2 d_loss : 0.183764
+batch 2 g_loss : 2.810001
+Epoch is 342
+Number of batches 3
+batch 0 d_loss : 0.228438
+batch 0 g_loss : 3.315429
+batch 1 d_loss : 0.126452
+batch 1 g_loss : 3.051472
+batch 2 d_loss : 0.231330
+batch 2 g_loss : 2.549047
+Epoch is 343
+Number of batches 3
+batch 0 d_loss : 0.128360
+batch 0 g_loss : 1.362985
+batch 1 d_loss : 0.113491
+batch 1 g_loss : 2.842417
+batch 2 d_loss : 0.152576
+batch 2 g_loss : 2.425740
+Epoch is 344
+Number of batches 3
+batch 0 d_loss : 0.258146
+batch 0 g_loss : 3.609107
+batch 1 d_loss : 0.146769
+batch 1 g_loss : 3.500326
+batch 2 d_loss : 0.216258
+batch 2 g_loss : 2.434793
+Epoch is 345
+Number of batches 3
+batch 0 d_loss : 0.167556
+batch 0 g_loss : 1.879470
+batch 1 d_loss : 0.206912
+batch 1 g_loss : 3.165533
+batch 2 d_loss : 0.169172
+batch 2 g_loss : 2.554227
+Epoch is 346
+Number of batches 3
+batch 0 d_loss : 0.161162
+batch 0 g_loss : 2.155814
+batch 1 d_loss : 0.069743
+batch 1 g_loss : 2.486372
+batch 2 d_loss : 0.164461
+batch 2 g_loss : 2.725586
+Epoch is 347
+Number of batches 3
+batch 0 d_loss : 0.147190
+batch 0 g_loss : 2.366838
+batch 1 d_loss : 0.082733
+batch 1 g_loss : 3.071349
+batch 2 d_loss : 0.157729
+batch 2 g_loss : 2.294526
+Epoch is 348
+Number of batches 3
+batch 0 d_loss : 0.132042
+batch 0 g_loss : 2.289819
+batch 1 d_loss : 0.236132
+batch 1 g_loss : 4.279089
+batch 2 d_loss : 0.283756
+batch 2 g_loss : 2.175075
+Epoch is 349
+Number of batches 3
+batch 0 d_loss : 0.170759
+batch 0 g_loss : 2.257440
+batch 1 d_loss : 0.093222
+batch 1 g_loss : 3.103988
+batch 2 d_loss : 0.175092
+batch 2 g_loss : 2.390685
+Epoch is 350
+Number of batches 3
+batch 0 d_loss : 0.138890
+batch 0 g_loss : 2.408529
+batch 1 d_loss : 0.177024
+batch 1 g_loss : 3.807492
+batch 2 d_loss : 0.207622
+batch 2 g_loss : 2.436190
+Epoch is 351
+Number of batches 3
+batch 0 d_loss : 0.211640
+batch 0 g_loss : 2.872407
+batch 1 d_loss : 0.106567
+batch 1 g_loss : 2.478864
+batch 2 d_loss : 0.193651
+batch 2 g_loss : 2.934480
+Epoch is 352
+Number of batches 3
+batch 0 d_loss : 0.178653
+batch 0 g_loss : 2.099338
+batch 1 d_loss : 0.096380
+batch 1 g_loss : 2.519284
+batch 2 d_loss : 0.167882
+batch 2 g_loss : 2.536685
+Epoch is 353
+Number of batches 3
+batch 0 d_loss : 0.133983
+batch 0 g_loss : 2.695585
+batch 1 d_loss : 0.086414
+batch 1 g_loss : 2.842482
+batch 2 d_loss : 0.112240
+batch 2 g_loss : 2.375852
+Epoch is 354
+Number of batches 3
+batch 0 d_loss : 0.120037
+batch 0 g_loss : 1.938901
+batch 1 d_loss : 0.089549
+batch 1 g_loss : 2.921176
+batch 2 d_loss : 0.158179
+batch 2 g_loss : 2.619264
+Epoch is 355
+Number of batches 3
+batch 0 d_loss : 0.117141
+batch 0 g_loss : 2.457839
+batch 1 d_loss : 0.109623
+batch 1 g_loss : 3.133629
+batch 2 d_loss : 0.178389
+batch 2 g_loss : 3.339062
+Epoch is 356
+Number of batches 3
+batch 0 d_loss : 0.172699
+batch 0 g_loss : 3.146281
+batch 1 d_loss : 0.104270
+batch 1 g_loss : 2.867483
+batch 2 d_loss : 0.146405
+batch 2 g_loss : 2.568537
+Epoch is 357
+Number of batches 3
+batch 0 d_loss : 0.092999
+batch 0 g_loss : 1.621271
+batch 1 d_loss : 0.166655
+batch 1 g_loss : 3.576466
+batch 2 d_loss : 0.131610
+batch 2 g_loss : 2.417234
+Epoch is 358
+Number of batches 3
+batch 0 d_loss : 0.125328
+batch 0 g_loss : 2.708963
+batch 1 d_loss : 0.122347
+batch 1 g_loss : 3.094908
+batch 2 d_loss : 0.228661
+batch 2 g_loss : 2.965816
+Epoch is 359
+Number of batches 3
+batch 0 d_loss : 0.117303
+batch 0 g_loss : 2.402917
+batch 1 d_loss : 0.137082
+batch 1 g_loss : 3.098006
+batch 2 d_loss : 0.187105
+batch 2 g_loss : 2.374870
+Epoch is 360
+Number of batches 3
+batch 0 d_loss : 0.120021
+batch 0 g_loss : 3.307864
+batch 1 d_loss : 0.078966
+batch 1 g_loss : 2.413111
+batch 2 d_loss : 0.126704
+batch 2 g_loss : 2.364785
+Epoch is 361
+Number of batches 3
+batch 0 d_loss : 0.209554
+batch 0 g_loss : 3.499420
+batch 1 d_loss : 0.087201
+batch 1 g_loss : 3.238083
+batch 2 d_loss : 0.168993
+batch 2 g_loss : 2.238015
+Epoch is 362
+Number of batches 3
+batch 0 d_loss : 0.138769
+batch 0 g_loss : 2.837111
+batch 1 d_loss : 0.158739
+batch 1 g_loss : 3.506275
+batch 2 d_loss : 0.204364
+batch 2 g_loss : 3.009002
+Epoch is 363
+Number of batches 3
+batch 0 d_loss : 0.155067
+batch 0 g_loss : 2.409923
+batch 1 d_loss : 0.081001
+batch 1 g_loss : 2.285621
+batch 2 d_loss : 0.162849
+batch 2 g_loss : 3.205809
+Epoch is 364
+Number of batches 3
+batch 0 d_loss : 0.164146
+batch 0 g_loss : 3.042715
+batch 1 d_loss : 0.097041
+batch 1 g_loss : 3.062887
+batch 2 d_loss : 0.201124
+batch 2 g_loss : 2.148828
+Epoch is 365
+Number of batches 3
+batch 0 d_loss : 0.117886
+batch 0 g_loss : 2.329883
+batch 1 d_loss : 0.161615
+batch 1 g_loss : 3.441044
+batch 2 d_loss : 0.204481
+batch 2 g_loss : 3.890896
+Epoch is 366
+Number of batches 3
+batch 0 d_loss : 0.161871
+batch 0 g_loss : 2.336773
+batch 1 d_loss : 0.060576
+batch 1 g_loss : 2.982060
+batch 2 d_loss : 0.154540
+batch 2 g_loss : 2.708344
+Epoch is 367
+Number of batches 3
+batch 0 d_loss : 0.134686
+batch 0 g_loss : 2.834260
+batch 1 d_loss : 0.147338
+batch 1 g_loss : 3.849081
+batch 2 d_loss : 0.191383
+batch 2 g_loss : 2.716216
+Epoch is 368
+Number of batches 3
+batch 0 d_loss : 0.199910
+batch 0 g_loss : 3.325857
+batch 1 d_loss : 0.067643
+batch 1 g_loss : 2.766480
+batch 2 d_loss : 0.146492
+batch 2 g_loss : 2.733360
+Epoch is 369
+Number of batches 3
+batch 0 d_loss : 0.110295
+batch 0 g_loss : 2.361433
+batch 1 d_loss : 0.107249
+batch 1 g_loss : 3.203928
+batch 2 d_loss : 0.131613
+batch 2 g_loss : 2.199691
+Epoch is 370
+Number of batches 3
+batch 0 d_loss : 0.130786
+batch 0 g_loss : 2.418607
+batch 1 d_loss : 0.145507
+batch 1 g_loss : 3.276456
+batch 2 d_loss : 0.214099
+batch 2 g_loss : 2.076502
+Epoch is 371
+Number of batches 3
+batch 0 d_loss : 0.118477
+batch 0 g_loss : 2.609481
+batch 1 d_loss : 0.124759
+batch 1 g_loss : 3.034863
+batch 2 d_loss : 0.125977
+batch 2 g_loss : 2.014249
+Epoch is 372
+Number of batches 3
+batch 0 d_loss : 0.213856
+batch 0 g_loss : 3.100615
+batch 1 d_loss : 0.093092
+batch 1 g_loss : 4.318046
+batch 2 d_loss : 0.165561
+batch 2 g_loss : 1.972132
+Epoch is 373
+Number of batches 3
+batch 0 d_loss : 0.127508
+batch 0 g_loss : 2.235624
+batch 1 d_loss : 0.065639
+batch 1 g_loss : 2.471088
+batch 2 d_loss : 0.104023
+batch 2 g_loss : 1.982887
+Epoch is 374
+Number of batches 3
+batch 0 d_loss : 0.168215
+batch 0 g_loss : 3.220586
+batch 1 d_loss : 0.086717
+batch 1 g_loss : 3.210310
+batch 2 d_loss : 0.141967
+batch 2 g_loss : 2.376456
+Epoch is 375
+Number of batches 3
+batch 0 d_loss : 0.183751
+batch 0 g_loss : 2.819181
+batch 1 d_loss : 0.117951
+batch 1 g_loss : 3.755960
+batch 2 d_loss : 0.187935
+batch 2 g_loss : 2.931083
+Epoch is 376
+Number of batches 3
+batch 0 d_loss : 0.092679
+batch 0 g_loss : 2.575445
+batch 1 d_loss : 0.218655
+batch 1 g_loss : 3.403070
+batch 2 d_loss : 0.132882
+batch 2 g_loss : 2.676025
+Epoch is 377
+Number of batches 3
+batch 0 d_loss : 0.135658
+batch 0 g_loss : 2.661232
+batch 1 d_loss : 0.066821
+batch 1 g_loss : 3.698737
+batch 2 d_loss : 0.128910
+batch 2 g_loss : 2.042796
+Epoch is 378
+Number of batches 3
+batch 0 d_loss : 0.175758
+batch 0 g_loss : 3.491456
+batch 1 d_loss : 0.090582
+batch 1 g_loss : 4.059906
+batch 2 d_loss : 0.159932
+batch 2 g_loss : 2.875135
+Epoch is 379
+Number of batches 3
+batch 0 d_loss : 0.106966
+batch 0 g_loss : 1.994823
+batch 1 d_loss : 0.098181
+batch 1 g_loss : 3.295631
+batch 2 d_loss : 0.147357
+batch 2 g_loss : 2.358624
+Epoch is 380
+Number of batches 3
+batch 0 d_loss : 0.118936
+batch 0 g_loss : 3.686252
+batch 1 d_loss : 0.070830
+batch 1 g_loss : 3.412437
+batch 2 d_loss : 0.124769
+batch 2 g_loss : 2.919120
+Epoch is 381
+Number of batches 3
+batch 0 d_loss : 0.132501
+batch 0 g_loss : 2.939002
+batch 1 d_loss : 0.118194
+batch 1 g_loss : 3.760065
+batch 2 d_loss : 0.212472
+batch 2 g_loss : 2.736997
+Epoch is 382
+Number of batches 3
+batch 0 d_loss : 0.110075
+batch 0 g_loss : 3.242495
+batch 1 d_loss : 0.113838
+batch 1 g_loss : 3.538736
+batch 2 d_loss : 0.145255
+batch 2 g_loss : 3.434435
+Epoch is 383
+Number of batches 3
+batch 0 d_loss : 0.169402
+batch 0 g_loss : 3.348923
+batch 1 d_loss : 0.070164
+batch 1 g_loss : 3.110874
+batch 2 d_loss : 0.143466
+batch 2 g_loss : 2.324344
+Epoch is 384
+Number of batches 3
+batch 0 d_loss : 0.122101
+batch 0 g_loss : 2.769569
+batch 1 d_loss : 0.069412
+batch 1 g_loss : 2.788078
+batch 2 d_loss : 0.105803
+batch 2 g_loss : 1.796810
+Epoch is 385
+Number of batches 3
+batch 0 d_loss : 0.118283
+batch 0 g_loss : 2.779239
+batch 1 d_loss : 0.147901
+batch 1 g_loss : 4.010779
+batch 2 d_loss : 0.174623
+batch 2 g_loss : 2.795698
+Epoch is 386
+Number of batches 3
+batch 0 d_loss : 0.229263
+batch 0 g_loss : 2.858220
+batch 1 d_loss : 0.088978
+batch 1 g_loss : 3.720833
+batch 2 d_loss : 0.144995
+batch 2 g_loss : 2.142331
+Epoch is 387
+Number of batches 3
+batch 0 d_loss : 0.091528
+batch 0 g_loss : 2.052454
+batch 1 d_loss : 0.147903
+batch 1 g_loss : 3.715024
+batch 2 d_loss : 0.143789
+batch 2 g_loss : 3.310058
+Epoch is 388
+Number of batches 3
+batch 0 d_loss : 0.147314
+batch 0 g_loss : 3.279157
+batch 1 d_loss : 0.103540
+batch 1 g_loss : 2.637263
+batch 2 d_loss : 0.141476
+batch 2 g_loss : 3.367500
+Epoch is 389
+Number of batches 3
+batch 0 d_loss : 0.078306
+batch 0 g_loss : 2.613716
+batch 1 d_loss : 0.111594
+batch 1 g_loss : 2.666095
+batch 2 d_loss : 0.199928
+batch 2 g_loss : 3.957023
+Epoch is 390
+Number of batches 3
+batch 0 d_loss : 0.147028
+batch 0 g_loss : 2.697167
+batch 1 d_loss : 0.118617
+batch 1 g_loss : 3.704542
+batch 2 d_loss : 0.153570
+batch 2 g_loss : 2.448932
+Epoch is 391
+Number of batches 3
+batch 0 d_loss : 0.135662
+batch 0 g_loss : 2.758409
+batch 1 d_loss : 0.289045
+batch 1 g_loss : 4.857454
+batch 2 d_loss : 0.254806
+batch 2 g_loss : 3.623057
+Epoch is 392
+Number of batches 3
+batch 0 d_loss : 0.135247
+batch 0 g_loss : 2.132157
+batch 1 d_loss : 0.182237
+batch 1 g_loss : 3.632133
+batch 2 d_loss : 0.208169
+batch 2 g_loss : 3.206667
+Epoch is 393
+Number of batches 3
+batch 0 d_loss : 0.111620
+batch 0 g_loss : 2.282748
+batch 1 d_loss : 0.114987
+batch 1 g_loss : 3.772033
+batch 2 d_loss : 0.098883
+batch 2 g_loss : 2.644472
+Epoch is 394
+Number of batches 3
+batch 0 d_loss : 0.118471
+batch 0 g_loss : 2.588751
+batch 1 d_loss : 0.079744
+batch 1 g_loss : 3.879817
+batch 2 d_loss : 0.132475
+batch 2 g_loss : 3.623032
+Epoch is 395
+Number of batches 3
+batch 0 d_loss : 0.130902
+batch 0 g_loss : 2.348660
+batch 1 d_loss : 0.097710
+batch 1 g_loss : 3.091166
+batch 2 d_loss : 0.131702
+batch 2 g_loss : 2.132269
+Epoch is 396
+Number of batches 3
+batch 0 d_loss : 0.128301
+batch 0 g_loss : 2.132488
+batch 1 d_loss : 0.079758
+batch 1 g_loss : 2.483366
+batch 2 d_loss : 0.140125
+batch 2 g_loss : 2.285990
+Epoch is 397
+Number of batches 3
+batch 0 d_loss : 0.101932
+batch 0 g_loss : 2.894091
+batch 1 d_loss : 0.090595
+batch 1 g_loss : 2.913446
+batch 2 d_loss : 0.170306
+batch 2 g_loss : 3.716916
+Epoch is 398
+Number of batches 3
+batch 0 d_loss : 0.108979
+batch 0 g_loss : 2.408519
+batch 1 d_loss : 0.133584
+batch 1 g_loss : 3.167488
+batch 2 d_loss : 0.165659
+batch 2 g_loss : 2.507415
+Epoch is 399
+Number of batches 3
+batch 0 d_loss : 0.103016
+batch 0 g_loss : 2.965692
+batch 1 d_loss : 0.062620
+batch 1 g_loss : 1.997042
+batch 2 d_loss : 0.125709
+batch 2 g_loss : 2.295359
