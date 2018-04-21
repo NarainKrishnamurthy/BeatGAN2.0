@@ -98,7 +98,7 @@ ENV/
 
 # data and temp files
 outputs/
-drums/
+drums/*/
 drums.zip
 *.wav
-ULTIMATE*/
+ULTIMATE_DRUM_LOOPS/*.wav
