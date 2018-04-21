@@ -10,4 +10,5 @@ This folder is where I stored the drum hit data from the original WaveGAN paper.
 * drums/Acetone Rhythm Master
 
 etc. 
+
 3) Compute X_train by running the cell with the function load_wavegan_paper_drumhit_data. Then run the cell with the train function. 
