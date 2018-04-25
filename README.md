@@ -24,7 +24,7 @@ After experimentation, I found a score of 0.1 or lower to be more or less indica
 ## Further Work
 The main extension to this work is finding a way to produce meaningfully long samples at a high quality sample rate (e.g. 44.1khz). This will undoubtedly require a larger model and thus more data. 
 
-# Running the Model
+## Running the Model Yourself
 Environment is described in the environment-gpu.yml. To run the model (once env is setup), put the training data into the ULTIMATE_DRUM_LOOPS folder (instructions provided in that folder's readme), then run the first six cells in beat_gan.ipynb (every cell up to and including the one that computes the similarity score). Make sure you clone the wavfile24.py module in the top level directory.  
 
 
