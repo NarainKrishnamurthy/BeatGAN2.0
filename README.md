@@ -1,6 +1,6 @@
 # BeatGAN - Generating Drum Loops via GANs
 
-#### tl;dr
+## tl;dr
 See the **generated_outputs** folder for samples created by the model and the **similarity_metric_examples** folder for examples of training data. I'll inline this in a future update as it looks like GitHub doesn't let you play audio directly in the browser.  
 
 ## Abstract
