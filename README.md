@@ -44,4 +44,5 @@ The second largest extension to this work would be in finding ways to speed up a
 ## Running the Model Yourself
 Setup the environment using the environment-gpu.yml YAML. Put the training data into the **ULTIMATE_DRUM_LOOPS** folder (instructions provided in that folder's README) and run the first six cells in beat_gan.ipynb, that is, every cell up to and including the one that calls generate_batch. The generator will output 40 samples into the **generated_output** directory and compute the similarity metric for the generated samples. 
 
-
+## Disclaimer
+All opinions and work are my own and do not represent those of my employer.
